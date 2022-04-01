@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.0">
+    <book code="3JN" style="id">The Third Epistle of John</book>
+    <para style="mt">The Third Epistle of John</para>
+    <chapter number="1" style="c" />
+	<para style="s">Greeting to Gaius</para>
+	<para style="p"><verse number="1" style="v" />The Elder,</para>
+	<para style="p">To the beloved Gaius, <note style="x" caller="-"><char style="xt" closed="false">2 John 1</char></note>whom I love in truth:</para>
+	<para style="p"><verse number="2" style="v" />Beloved, I pray that you may prosper in all things and be in health, just as your soul prospers. <verse number="3" style="v" />For I <note style="x" caller="-"><char style="xt" closed="false">2 John 4</char></note>rejoiced greatly when brethren came and testified of the truth <char style="it">that</char> <char style="it">is</char> in you, just as you walk in the truth. <verse number="4" style="v" />I have no greater <note style="x" caller="-"><char style="xt" closed="false">1 Thess. 2:19, 20; 2 John 4</char></note>joy than to hear that <note style="x" caller="-"><char style="xt" closed="false">(1 Cor. 4:15)</char></note>my children walk in truth.</para>
+	<para style="s">Gaius Commended for Generosity</para>
+	<para style="p"><verse number="5" style="v" />Beloved, you do faithfully whatever you do for the brethren and for strangers, <verse number="6" style="v" />who have borne witness of your love before the church. <char style="it">If</char> you send them forward on their journey in a manner worthy of God, you will do well, <verse number="7" style="v" />because they went forth for His name’s sake, <note style="x" caller="-"><char style="xt" closed="false">1 Cor. 9:12, 15</char></note>taking nothing from the Gentiles. <verse number="8" style="v" />We therefore ought to <note style="x" caller="-"><char style="xt" closed="false">Matt. 10:40; Rom. 12:13; Heb. 13:2; 1 Pet. 4:9</char></note>receive such, that we may become fellow workers for the truth.</para>
+	<para style="s">Diotrephes and Demetrius</para>
+	<para style="p"><verse number="9" style="v" />I wrote to the church, but Diotrephes, who loves to have the preeminence among them, does not receive us. <verse number="10" style="v" />Therefore, if I come, I will call to mind his deeds which he does, <note style="x" caller="-"><char style="xt" closed="false">Prov. 10:8, 10</char></note>prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting <char style="it">them</char> out of the church.</para>
+	<para style="p"><verse number="11" style="v" />Beloved, <note style="x" caller="-"><char style="xt" closed="false">Ps. 34:14; 37:27; Rom. 14:19; 1 Thess. 5:15; 1 Tim. 6:11; 2 Tim. 2:22</char></note>do not imitate what is evil, but what is good. <note style="x" caller="-"><char style="xt" closed="false">(1 John 2:29; 3:10)</char></note>He who does good is of God, but he who does evil has not seen <note style="x" caller="-"><char style="xt" closed="false">(1 John 3:10)</char></note>God.</para>
+	<para style="p"><verse number="12" style="v" />Demetrius <note style="x" caller="-"><char style="xt" closed="false">Acts 6:3; 1 Tim. 3:7</char></note>has a <char style="it">good</char> testimony from all, and from the truth itself. And we also bear witness, <note style="x" caller="-"><char style="xt" closed="false">John 19:35; 21:24</char></note>and you know that our testimony is true.</para>
+	<para style="s">Farewell Greeting</para>
+	<para style="p"><verse number="13" style="v" /><note style="x" caller="-"><char style="xt" closed="false">2 John 12</char></note>I had many things to write, but I do not wish to write to you with pen and ink; <verse number="14" style="v" />but I hope to see you shortly, and we shall speak face to face.</para>
+	<para style="p">Peace to you. Our friends greet you. Greet the friends by name.</para>
+	
+</usx>

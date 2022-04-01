@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.0">
+    <book code="SNG" style="id">The Song of Solomon</book>
+    <para style="mt">The Song of Solomon</para>
+    <chapter number="1" style="c" />
+	<para style="s">Solomon’s Love for a Shulamite Girl</para>
+	<para style="p"><verse number="1" style="v" />The <note style="x" caller="-"><char style="xt" closed="false">1 Kin. 4:32</char></note>song of songs, which <char style="it">is</char> Solomon’s.</para>
+	<para style="s">The Banquet</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="2" style="v" />Let him kiss me with the kisses of his mouth—</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 4:10</char></note>For your love <char style="it">is</char> better than wine.</para>
+	<para style="q2"><verse number="3" style="v" />Because of the fragrance of your good ointments,</para>
+	<para style="q2">Your name <char style="it">is</char> ointment poured forth;</para>
+	<para style="q2">Therefore the virgins love you.</para>
+	<para style="q2"><verse number="4" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Hos. 11:4; John 6:44; 12:32</char></note>Draw me away!</para>
+	<para style="qa">The Daughters of Jerusalem</para>
+	<para style="q1"><note style="x" caller="-"><char style="xt" closed="false">Phil. 3:12–14</char></note>We will run after you.</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1">The king <note style="x" caller="-"><char style="xt" closed="false">Ps. 45:14, 15; John 14:2; Eph. 2:6</char></note>has brought me into his chambers.</para>
+	<para style="qa">The Daughters of Jerusalem</para>
+	<para style="q1">We will be glad and rejoice in you.</para>
+	<para style="q1">We will remember your love more than wine.</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1">Rightly do they love you.</para>
+	<para style="q1"><verse number="5" style="v" />I <char style="it">am</char> dark, but lovely,</para>
+	<para style="q2">O daughters of Jerusalem,</para>
+	<para style="q2">Like the tents of Kedar,</para>
+	<para style="q2">Like the curtains of Solomon.</para>
+	<para style="q2"><verse number="6" style="v" />Do not look upon me, because I <char style="it">am</char> dark,</para>
+	<para style="q2">Because the sun has tanned me.</para>
+	<para style="q2">My mother’s sons were angry with me;</para>
+	<para style="q2">They made me the keeper of the vineyards,</para>
+	<para style="q2"><char style="it">But</char> my own <note style="x" caller="-"><char style="xt" closed="false">Song 8:11, 12</char></note>vineyard I have not kept.</para>
+	<para style="qa">(To Her Beloved)</para>
+	<para style="q1"><verse number="7" style="v" />Tell me, O you whom I love,</para>
+	<para style="q2">Where you feed <char style="it">your</char> <char style="it">flock,</char></para>
+	<para style="q2">Where you make <char style="it">it</char> rest at noon.</para>
+	<para style="q2">For why should I be as one who veils herself</para>
+	<para style="q2">By the flocks of your companions?</para>
+	<para style="qa">The Beloved</para>
+	<para style="q1"><verse number="8" style="v" />If you do not know, <note style="x" caller="-"><char style="xt" closed="false">Song 5:9</char></note>O fairest among women,</para>
+	<para style="q2">Follow in the footsteps of the flock,</para>
+	<para style="q2">And feed your little goats</para>
+	<para style="q2">Beside the shepherds’ tents.</para>
+	<para style="q2"><verse number="9" style="v" />I have compared you, <note style="x" caller="-"><char style="xt" closed="false">Song 2:2, 10, 13; 4:1, 7; John 15:14</char></note>my love,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">2 Chr. 1:16</char></note>To my filly among Pharaoh’s chariots.</para>
+	<para style="q2"><verse number="10" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ezek. 16:11</char></note>Your cheeks are lovely with ornaments,</para>
+	<para style="q2">Your neck with chains <char style="it">of</char> <char style="it">gold.</char></para>
+	<para style="qa">The Daughters of Jerusalem</para>
+	<para style="q1"><verse number="11" style="v" />We will make you ornaments of gold</para>
+	<para style="q2">With studs of silver.</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="12" style="v" />While the king <char style="it">is</char> at his table,</para>
+	<para style="q2">My spikenard sends forth its fragrance.</para>
+	<para style="q2"><verse number="13" style="v" />A bundle of myrrh <char style="it">is</char> my beloved to me,</para>
+	<para style="q2">That lies all night between my breasts.</para>
+	<para style="q2"><verse number="14" style="v" />My beloved <char style="it">is</char> to me a cluster of henna <char style="it">blooms</char></para>
+	<para style="q2">In the vineyards of En Gedi.</para>
+	<para style="qa">The Beloved</para>
+	<para style="q1"><verse number="15" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 4:1; 5:12</char></note>Behold, you <char style="it">are</char> fair, my love!</para>
+	<para style="q2">Behold, you <char style="it">are</char> fair!</para>
+	<para style="q2">You <char style="it">have</char> dove’s eyes.</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="16" style="v" />Behold, you <char style="it">are</char> <note style="x" caller="-"><char style="xt" closed="false">Song 5:10–16</char></note>handsome, my beloved!</para>
+	<para style="q2">Yes, pleasant!</para>
+	<para style="q2">Also our bed <char style="it">is</char> green.</para>
+	<para style="q2"><verse number="17" style="v" />The beams of our houses <char style="it">are</char> cedar,</para>
+	<para style="q2"><char style="it">And</char> our rafters of fir.</para>
+	<chapter number="2" style="c" />
+	<para style="q1"><verse number="1" style="v" />I <char style="it">am</char> the rose of Sharon,</para>
+	<para style="q2"><char style="it">And</char> the lily of the valleys.</para>
+	<para style="qa">The Beloved</para>
+	<para style="q1"><verse number="2" style="v" />Like a lily among thorns,</para>
+	<para style="q2">So is my love among the daughters.</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="3" style="v" />Like an apple tree among the trees of the woods,</para>
+	<para style="q2">So <char style="it">is</char> my beloved among the sons.</para>
+	<para style="q2">I sat down in his shade with great delight,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Song 4:16; Rev. 22:1, 2</char></note>his fruit <char style="it">was</char> sweet to my taste.</para>
+	<para style="qa">The Shulamite to the Daughters of Jerusalem</para>
+	<para style="q1"><verse number="4" style="v" />He brought me to the banqueting house,</para>
+	<para style="q2">And his banner over me <char style="it">was</char> love.</para>
+	<para style="q2"><verse number="5" style="v" />Sustain me with cakes of raisins,</para>
+	<para style="q2">Refresh me with apples,</para>
+	<para style="q2">For I <char style="it">am</char> lovesick.</para>
+	<para style="q1"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 8:3</char></note>His left hand <char style="it">is</char> under my head,</para>
+	<para style="q2">And his right hand embraces me.</para>
+	<para style="q2"><verse number="7" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 3:5; 8:4</char></note>I charge you, O daughters of Jerusalem,</para>
+	<para style="q2">By the gazelles or by the does of the field,</para>
+	<para style="q2">Do not stir up nor awaken love</para>
+	<para style="q2">Until it pleases.</para>
+	<para style="s">The Beloved’s Request</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="8" style="v" />The voice of my beloved!</para>
+	<para style="q2">Behold, he comes</para>
+	<para style="q2">Leaping upon the mountains,</para>
+	<para style="q2">Skipping upon the hills.</para>
+	<para style="q2"><verse number="9" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 6:5; Song 2:17</char></note>My beloved is like a gazelle or a young stag.</para>
+	<para style="q2">Behold, he stands behind our wall;</para>
+	<para style="q2">He is looking through the windows,</para>
+	<para style="q2">Gazing through the lattice.</para>
+	<para style="q1"><verse number="10" style="v" />My beloved spoke, and said to me:</para>
+	<para style="q2">“Rise up, my love, my fair one,</para>
+	<para style="q2">And come away.</para>
+	<para style="q2"><verse number="11" style="v" />For lo, the winter is past,</para>
+	<para style="q2">The rain is over <char style="it">and</char> gone.</para>
+	<para style="q2"><verse number="12" style="v" />The flowers appear on the earth;</para>
+	<para style="q2">The time of singing has come,</para>
+	<para style="q2">And the voice of the turtledove</para>
+	<para style="q2">Is heard in our land.</para>
+	<para style="q2"><verse number="13" style="v" />The fig tree puts forth her green figs,</para>
+	<para style="q2">And the vines <char style="it">with</char> the tender grapes</para>
+	<para style="q2">Give a <char style="it">good</char> smell.</para>
+	<para style="q2">Rise up, my love, my fair one,</para>
+	<para style="q2">And come away!</para>
+	<para style="q1"><verse number="14" style="v" />“O my <note style="x" caller="-"><char style="xt" closed="false">Song 5:2</char></note>dove, in the clefts of the rock,</para>
+	<para style="q2">In the secret <char style="it">places</char> of the cliff,</para>
+	<para style="q2">Let me see your face,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 8:13</char></note>Let me hear your voice;</para>
+	<para style="q2">For your voice <char style="it">is</char> sweet,</para>
+	<para style="q2">And your face <char style="it">is</char> lovely.”</para>
+	<para style="qa">Her Brothers</para>
+	<para style="q1"><verse number="15" style="v" />Catch us <note style="x" caller="-"><char style="xt" closed="false">Ps. 80:13; Ezek. 13:4; Luke 13:32</char></note>the foxes,</para>
+	<para style="q2">The little foxes that spoil the vines,</para>
+	<para style="q2">For our vines <char style="it">have</char> tender grapes.</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="16" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 6:3</char></note>My beloved <char style="it">is</char> mine, and I <char style="it">am</char> his.</para>
+	<para style="q2">He feeds <char style="it">his</char> <char style="it">flock</char> among the lilies.</para>
+	<para style="qa">(To Her Beloved)</para>
+	<para style="q1"><verse number="17" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 4:6</char></note>Until the day breaks</para>
+	<para style="q2">And the shadows flee away,</para>
+	<para style="q2">Turn, my beloved,</para>
+	<para style="q2">And be <note style="x" caller="-"><char style="xt" closed="false">Song 8:14</char></note>like a gazelle</para>
+	<para style="q2">Or a young stag</para>
+	<para style="q2">Upon the mountains of Bether.</para>
+	<chapter number="3" style="c" />
+	<para style="s">A Troubled Night</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="1" style="v" />By <note style="x" caller="-"><char style="xt" closed="false">Is. 26:9</char></note>night on my bed I sought the one I love;</para>
+	<para style="q2">I sought him, but I did not find him.</para>
+	<para style="q2"><verse number="2" style="v" />“I will rise now,” <char style="it">I</char> <char style="it">said,</char></para>
+	<para style="q2">“And go about the city;</para>
+	<para style="q2">In the streets and in the squares</para>
+	<para style="q2">I will seek the one I love.”</para>
+	<para style="q2">I sought him, but I did not find him.</para>
+	<para style="q2"><verse number="3" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 5:7; Is. 21:6–8, 11, 12</char></note>The watchmen who go about the city found me;</para>
+	<para style="q2"><char style="it">I</char> <char style="it">said,</char></para>
+	<para style="q2">“Have you seen the one I love?”</para>
+	<para style="q1"><verse number="4" style="v" />Scarcely had I passed by them,</para>
+	<para style="q2">When I found the one I love.</para>
+	<para style="q2">I held him and would not let him go,</para>
+	<para style="q2">Until I had brought him to the <note style="x" caller="-"><char style="xt" closed="false">Song 8:2</char></note>house of my mother,</para>
+	<para style="q2">And into the chamber of her who conceived me.</para>
+	<para style="q1"><verse number="5" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 2:7; 8:4</char></note>I charge you, O daughters of Jerusalem,</para>
+	<para style="q2">By the gazelles or by the does of the field,</para>
+	<para style="q2">Do not stir up nor awaken love</para>
+	<para style="q2">Until it pleases.</para>
+	<para style="s">The Coming of Solomon</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 8:5</char></note>Who <char style="it">is</char> this coming out of the wilderness</para>
+	<para style="q2">Like pillars of smoke,</para>
+	<para style="q2">Perfumed with myrrh and frankincense,</para>
+	<para style="q2">With all the merchant’s fragrant powders?</para>
+	<para style="q2"><verse number="7" style="v" />Behold, it <char style="it">is</char> Solomon’s couch,</para>
+	<para style="q2"><char style="it">With</char> sixty valiant men around it,</para>
+	<para style="q2">Of the valiant of Israel.</para>
+	<para style="q2"><verse number="8" style="v" />They all hold swords,</para>
+	<para style="q2"><char style="it">Being</char> expert in war.</para>
+	<para style="q2">Every man <char style="it">has</char> his sword on his thigh</para>
+	<para style="q2">Because of fear in the night.</para>
+	<para style="q1"><verse number="9" style="v" />Of the wood of Lebanon</para>
+	<para style="q2">Solomon the King</para>
+	<para style="q2">Made himself a palanquin:</para>
+	<para style="q2"><verse number="10" style="v" />He made its pillars <char style="it">of</char> silver,</para>
+	<para style="q2">Its support <char style="it">of</char> gold,</para>
+	<para style="q2">Its seat <char style="it">of</char> purple,</para>
+	<para style="q2">Its interior paved <char style="it">with</char> love</para>
+	<para style="q2">By the daughters of Jerusalem.</para>
+	<para style="q2"><verse number="11" style="v" />Go forth, O daughters of Zion,</para>
+	<para style="q2">And see King Solomon with the crown</para>
+	<para style="q2">With which his mother crowned him</para>
+	<para style="q2">On the day of his wedding,</para>
+	<para style="q2">The day of the gladness of his heart.</para>
+	<chapter number="4" style="c" />
+	<para style="s">The Bridegroom Praises the Bride</para>
+	<para style="qa">The Beloved</para>
+	<para style="q1"><verse number="1" style="v" />Behold, <note style="x" caller="-"><char style="xt" closed="false">Song 1:15; 5:12</char></note>you <char style="it">are</char> fair, my love!</para>
+	<para style="q2">Behold, you <char style="it">are</char> fair!</para>
+	<para style="q2">You <char style="it">have</char> dove’s eyes behind your veil.</para>
+	<para style="q2">Your hair <char style="it">is</char> like a <note style="x" caller="-"><char style="xt" closed="false">Song 6:5</char></note>flock of goats,</para>
+	<para style="q2">Going down from Mount Gilead.</para>
+	<para style="q2"><verse number="2" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 6:6</char></note>Your teeth <char style="it">are</char> like a flock of shorn <char style="it">sheep</char></para>
+	<para style="q2">Which have come up from the washing,</para>
+	<para style="q2">Every one of which bears twins,</para>
+	<para style="q2">And none <char style="it">is</char> barren among them.</para>
+	<para style="q2"><verse number="3" style="v" />Your lips <char style="it">are</char> like a strand of scarlet,</para>
+	<para style="q2">And your mouth is lovely.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 6:7</char></note>Your temples behind your veil</para>
+	<para style="q2"><char style="it">Are</char> like a piece of pomegranate.</para>
+	<para style="q2"><verse number="4" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 7:4</char></note>Your neck <char style="it">is</char> like the tower of David,</para>
+	<para style="q2">Built <note style="x" caller="-"><char style="xt" closed="false">Neh. 3:19</char></note>for an armory,</para>
+	<para style="q2">On which hang a thousand bucklers,</para>
+	<para style="q2">All shields of mighty men.</para>
+	<para style="q2"><verse number="5" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 5:19; Song 7:3</char></note>Your two breasts <char style="it">are</char> like two fawns,</para>
+	<para style="q2">Twins of a gazelle,</para>
+	<para style="q2">Which feed among the lilies.</para>
+	<para style="q1"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 2:17</char></note>Until the day breaks</para>
+	<para style="q2">And the shadows flee away,</para>
+	<para style="q2">I will go my way to the mountain of myrrh</para>
+	<para style="q2">And to the hill of frankincense.</para>
+	<para style="q1"><verse number="7" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 1:15; Eph. 5:27</char></note>You <char style="it">are</char> all fair, my love,</para>
+	<para style="q2">And <char style="it">there</char> <char style="it">is</char> no spot in you.</para>
+	<para style="q2"><verse number="8" style="v" />Come with me from Lebanon, <char style="it">my</char> spouse,</para>
+	<para style="q2">With me from Lebanon.</para>
+	<para style="q2">Look from the top of Amana,</para>
+	<para style="q2">From the top of Senir <note style="x" caller="-"><char style="xt" closed="false">Deut. 3:9; 1 Chr. 5:23; Ezek. 27:5</char></note>and Hermon,</para>
+	<para style="q2">From the lions’ dens,</para>
+	<para style="q2">From the mountains of the leopards.</para>
+	<para style="q1"><verse number="9" style="v" />You have ravished my heart,</para>
+	<para style="q2">My sister, <char style="it">my</char> spouse;</para>
+	<para style="q2">You have ravished my heart</para>
+	<para style="q2">With one <char style="it">look</char> of your eyes,</para>
+	<para style="q2">With one link of your necklace.</para>
+	<para style="q2"><verse number="10" style="v" />How fair is your love,</para>
+	<para style="q2">My sister, <char style="it">my</char> spouse!</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 1:2, 4</char></note>How much better than wine is your love,</para>
+	<para style="q2">And the scent of your perfumes</para>
+	<para style="q2">Than all spices!</para>
+	<para style="q2"><verse number="11" style="v" />Your lips, O <char style="it">my</char> spouse,</para>
+	<para style="q2">Drip as the honeycomb;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Prov. 24:13, 14; Song 5:1</char></note>Honey and milk <char style="it">are</char> under your tongue;</para>
+	<para style="q2">And the fragrance of your garments</para>
+	<para style="q2"><char style="it">Is</char> <note style="x" caller="-"><char style="xt" closed="false">Gen. 27:27; Hos. 14:6, 7</char></note>like the fragrance of Lebanon.</para>
+	<para style="q1"><verse number="12" style="v" />A garden enclosed</para>
+	<para style="q2"><char style="it">Is</char> my sister, <char style="it">my</char> spouse,</para>
+	<para style="q2">A spring shut up,</para>
+	<para style="q2">A fountain sealed.</para>
+	<para style="q2"><verse number="13" style="v" />Your plants <char style="it">are</char> an orchard of pomegranates</para>
+	<para style="q2">With pleasant fruits,</para>
+	<para style="q2">Fragrant henna with spikenard,</para>
+	<para style="q2"><verse number="14" style="v" />Spikenard and saffron,</para>
+	<para style="q2">Calamus and cinnamon,</para>
+	<para style="q2">With all trees of frankincense,</para>
+	<para style="q2">Myrrh and aloes,</para>
+	<para style="q2">With all the chief spices—</para>
+	<para style="q2"><verse number="15" style="v" />A fountain of gardens,</para>
+	<para style="q2">A well of <note style="x" caller="-"><char style="xt" closed="false">Zech. 14:8; John 4:10; 7:38</char></note>living waters,</para>
+	<para style="q2">And streams from Lebanon.</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="16" style="v" />Awake, O north <char style="it">wind,</char></para>
+	<para style="q2">And come, O south!</para>
+	<para style="q2">Blow upon my garden,</para>
+	<para style="q2"><char style="it">That</char> its spices may flow out.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 5:1</char></note>Let my beloved come to his garden</para>
+	<para style="q2">And eat its pleasant <note style="x" caller="-"><char style="xt" closed="false">Song 7:13</char></note>fruits.</para>
+	<chapter number="5" style="c" />
+	<para style="qa">The Beloved</para>
+	<para style="q1"><verse number="1" style="v" />I <note style="x" caller="-"><char style="xt" closed="false">Song 4:16</char></note>have come to my garden, my <note style="x" caller="-"><char style="xt" closed="false">Song 4:9</char></note>sister, <char style="it">my</char> spouse;</para>
+	<para style="q2">I have gathered my myrrh with my spice;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 4:11</char></note>I have eaten my honeycomb with my honey;</para>
+	<para style="q2">I have drunk my wine with my milk.</para>
+	<para style="qa">(To His Friends)</para>
+	<para style="q1">Eat, O <note style="x" caller="-"><char style="xt" closed="false">Luke 15:7, 10; John 3:29</char></note>friends!</para>
+	<para style="q2">Drink, yes, drink deeply,</para>
+	<para style="q2">O beloved ones!</para>
+	<para style="s">The Shulamite’s Troubled Evening</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="2" style="v" />I sleep, but my heart is awake;</para>
+	<para style="q2"><char style="it">It</char> <char style="it">is</char> the voice of my beloved!</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Rev. 3:20</char></note>He knocks, <char style="it">saying,</char></para>
+	<para style="q2">“Open for me, my sister, my love,</para>
+	<para style="q2">My dove, my perfect one;</para>
+	<para style="q2">For my head is covered with dew,</para>
+	<para style="q2">My locks with the drops of the night.”</para>
+	<para style="q2"><verse number="3" style="v" />I have taken off my robe;</para>
+	<para style="q2">How can I put it on <char style="it">again?</char></para>
+	<para style="q2">I have washed my feet;</para>
+	<para style="q2">How can I defile them?</para>
+	<para style="q2"><verse number="4" style="v" />My beloved put his hand</para>
+	<para style="q2">By the latch <char style="it">of</char> <char style="it">the</char> <char style="it">door,</char></para>
+	<para style="q2">And my heart yearned for him.</para>
+	<para style="q2"><verse number="5" style="v" />I arose to open for my beloved,</para>
+	<para style="q2">And my hands dripped <char style="it">with</char> myrrh,</para>
+	<para style="q2">My fingers with liquid myrrh,</para>
+	<para style="q2">On the handles of the lock.</para>
+	<para style="q1"><verse number="6" style="v" />I opened for my beloved,</para>
+	<para style="q2">But my beloved had turned away <char style="it">and</char> was gone.</para>
+	<para style="q2">My heart leaped up when he spoke.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 3:1</char></note>I sought him, but I could not find him;</para>
+	<para style="q2">I called him, but he gave me no answer.</para>
+	<para style="q2"><verse number="7" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 3:3</char></note>The watchmen who went about the city found me.</para>
+	<para style="q2">They struck me, they wounded me;</para>
+	<para style="q2">The keepers of the walls</para>
+	<para style="q2">Took my veil away from me.</para>
+	<para style="q2"><verse number="8" style="v" />I charge you, O daughters of Jerusalem,</para>
+	<para style="q2">If you find my beloved,</para>
+	<para style="q2">That you tell him I <char style="it">am</char> lovesick!</para>
+	<para style="qa">The Daughters of Jerusalem</para>
+	<para style="q1"><verse number="9" style="v" />What <char style="it">is</char> your beloved</para>
+	<para style="q2">More than <char style="it">another</char> beloved,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 1:8; 6:1</char></note>O fairest among women?</para>
+	<para style="q2">What <char style="it">is</char> your beloved</para>
+	<para style="q2">More than <char style="it">another</char> beloved,</para>
+	<para style="q2">That you so charge us?</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="10" style="v" />My beloved <char style="it">is</char> white and ruddy,</para>
+	<para style="q2">Chief among ten thousand.</para>
+	<para style="q2"><verse number="11" style="v" />His head <char style="it">is</char> <char style="it">like</char> the finest gold;</para>
+	<para style="q2">His locks <char style="it">are</char> wavy,</para>
+	<para style="q2"><char style="it">And</char> black as a raven.</para>
+	<para style="q2"><verse number="12" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 1:15; 4:1</char></note>His eyes <char style="it">are</char> like doves</para>
+	<para style="q2">By the rivers of waters,</para>
+	<para style="q2">Washed with milk,</para>
+	<para style="q2"><char style="it">And</char> fitly set.</para>
+	<para style="q2"><verse number="13" style="v" />His cheeks <char style="it">are</char> like a bed of spices,</para>
+	<para style="q2">Banks of scented herbs.</para>
+	<para style="q2">His lips <char style="it">are</char> lilies,</para>
+	<para style="q2">Dripping liquid myrrh.</para>
+	<para style="q1"><verse number="14" style="v" />His hands <char style="it">are</char> rods of gold</para>
+	<para style="q2">Set with beryl.</para>
+	<para style="q2">His body <char style="it">is</char> carved ivory</para>
+	<para style="q2">Inlaid <char style="it">with</char> sapphires.</para>
+	<para style="q2"><verse number="15" style="v" />His legs <char style="it">are</char> pillars of marble</para>
+	<para style="q2">Set on bases of fine gold.</para>
+	<para style="q2">His countenance <char style="it">is</char> like Lebanon,</para>
+	<para style="q2">Excellent as the cedars.</para>
+	<para style="q2"><verse number="16" style="v" />His mouth <char style="it">is</char> most sweet,</para>
+	<para style="q2">Yes, he <char style="it">is</char> altogether lovely.</para>
+	<para style="q2">This <char style="it">is</char> my beloved,</para>
+	<para style="q2">And this <char style="it">is</char> my friend,</para>
+	<para style="q2">O daughters of Jerusalem!</para>
+	<chapter number="6" style="c" />
+	<para style="qa">The Daughters of Jerusalem</para>
+	<para style="q1"><verse number="1" style="v" />Where has your beloved gone,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 1:8; 5:9</char></note>O fairest among women?</para>
+	<para style="q2">Where has your beloved turned aside,</para>
+	<para style="q2">That we may seek him with you?</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="2" style="v" />My beloved has gone to his <note style="x" caller="-"><char style="xt" closed="false">Song 4:16; 5:1</char></note>garden,</para>
+	<para style="q2">To the beds of spices,</para>
+	<para style="q2">To feed <char style="it">his</char> <char style="it">flock</char> in the gardens,</para>
+	<para style="q2">And to gather lilies.</para>
+	<para style="q2"><verse number="3" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 2:16; 7:10</char></note>I <char style="it">am</char> my beloved’s,</para>
+	<para style="q2">And my beloved <char style="it">is</char> mine.</para>
+	<para style="q2">He feeds <char style="it">his</char> <char style="it">flock</char> among the lilies.</para>
+	<para style="s">Praise of the Shulamite’s Beauty</para>
+	<para style="qa">The Beloved</para>
+	<para style="q1"><verse number="4" style="v" />O my love, you <char style="it">are</char> <char style="it">as</char> beautiful as Tirzah,</para>
+	<para style="q2">Lovely as Jerusalem,</para>
+	<para style="q2">Awesome as <char style="it">an</char> <char style="it">army</char> with banners!</para>
+	<para style="q2"><verse number="5" style="v" />Turn your eyes away from me,</para>
+	<para style="q2">For they have overcome me.</para>
+	<para style="q2">Your hair <char style="it">is</char> <note style="x" caller="-"><char style="xt" closed="false">Song 4:1</char></note>like a flock of goats</para>
+	<para style="q2">Going down from Gilead.</para>
+	<para style="q2"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 4:2</char></note>Your teeth <char style="it">are</char> like a flock of sheep</para>
+	<para style="q2">Which have come up from the washing;</para>
+	<para style="q2">Every one bears twins,</para>
+	<para style="q2">And none <char style="it">is</char> barren among them.</para>
+	<para style="q2"><verse number="7" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 4:3</char></note>Like a piece of pomegranate</para>
+	<para style="q2"><char style="it">Are</char> your temples behind your veil.</para>
+	<para style="q1"><verse number="8" style="v" />There are sixty queens</para>
+	<para style="q2">And eighty concubines,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Song 1:3</char></note>virgins without number.</para>
+	<para style="q2"><verse number="9" style="v" />My dove, my <note style="x" caller="-"><char style="xt" closed="false">Song 2:14; 5:2</char></note>perfect one,</para>
+	<para style="q2">Is the only one,</para>
+	<para style="q2">The only one of her mother,</para>
+	<para style="q2">The favorite of the one who bore her.</para>
+	<para style="q2">The daughters saw her</para>
+	<para style="q2">And called her blessed,</para>
+	<para style="q2">The queens and the concubines,</para>
+	<para style="q2">And they praised her.</para>
+	<para style="q1"><verse number="10" style="v" />Who is she who looks forth as the morning,</para>
+	<para style="q2">Fair as the moon,</para>
+	<para style="q2">Clear as the sun,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 6:4</char></note>Awesome as <char style="it">an</char> <char style="it">army</char> with banners?</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="11" style="v" />I went down to the garden of nuts</para>
+	<para style="q2">To see the verdure of the valley,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 7:12</char></note>To see whether the vine had budded</para>
+	<para style="q2"><char style="it">And</char> the pomegranates had bloomed.</para>
+	<para style="q2"><verse number="12" style="v" />Before I was even aware,</para>
+	<para style="q2">My soul had made me</para>
+	<para style="q2"><char style="it">As</char> the chariots of my noble people.</para>
+	<para style="qa">The Beloved and His Friends</para>
+	<para style="q1"><verse number="13" style="v" />Return, return, O Shulamite;</para>
+	<para style="q2">Return, return, that we may look upon you!</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1">What would you see in the Shulamite—</para>
+	<para style="q2">As it were, the dance of the two camps?</para>
+	<chapter number="7" style="c" />
+	<para style="s">Expressions of Praise</para>
+	<para style="qa">The Beloved</para>
+	<para style="q1"><verse number="1" style="v" />How beautiful are your feet in sandals,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 45:13</char></note>O prince’s daughter!</para>
+	<para style="q2">The curves of your thighs <char style="it">are</char> like jewels,</para>
+	<para style="q2">The work of the hands of a skillful workman.</para>
+	<para style="q2"><verse number="2" style="v" />Your navel <char style="it">is</char> a rounded goblet;</para>
+	<para style="q2">It lacks no blended beverage.</para>
+	<para style="q2">Your waist <char style="it">is</char> a heap of wheat</para>
+	<para style="q2">Set about with lilies.</para>
+	<para style="q2"><verse number="3" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 4:5</char></note>Your two breasts <char style="it">are</char> like two fawns,</para>
+	<para style="q2">Twins of a gazelle.</para>
+	<para style="q2"><verse number="4" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 4:4</char></note>Your neck <char style="it">is</char> like an ivory tower,</para>
+	<para style="q2">Your eyes <char style="it">like</char> the pools in Heshbon</para>
+	<para style="q2">By the gate of Bath Rabbim.</para>
+	<para style="q2">Your nose <char style="it">is</char> like the tower of Lebanon</para>
+	<para style="q2">Which looks toward Damascus.</para>
+	<para style="q2"><verse number="5" style="v" />Your head <char style="it">crowns</char> you like <char style="it">Mount</char> Carmel,</para>
+	<para style="q2">And the hair of your head <char style="it">is</char> like purple;</para>
+	<para style="q2">A king <char style="it">is</char> held captive by <char style="it">your</char> tresses.</para>
+	<para style="q1"><verse number="6" style="v" />How fair and how pleasant you are,</para>
+	<para style="q2">O love, with your delights!</para>
+	<para style="q2"><verse number="7" style="v" />This stature of yours is like a palm tree,</para>
+	<para style="q2">And your breasts <char style="it">like</char> its clusters.</para>
+	<para style="q2"><verse number="8" style="v" />I said, “I will go up to the palm tree,</para>
+	<para style="q2">I will take hold of its branches.”</para>
+	<para style="q2">Let now your breasts be like clusters of the vine,</para>
+	<para style="q2">The fragrance of your breath like apples,</para>
+	<para style="q2"><verse number="9" style="v" />And the roof of your mouth like the best wine.</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><char style="it">The</char> <char style="it">wine</char> goes <char style="it">down</char> smoothly for my beloved,</para>
+	<para style="q2">Moving gently the lips of sleepers.</para>
+	<para style="q2"><verse number="10" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 2:16; 6:3</char></note>I <char style="it">am</char> my beloved’s,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Ps. 45:11</char></note>his desire <char style="it">is</char> toward me.</para>
+	<para style="q1"><verse number="11" style="v" />Come, my beloved,</para>
+	<para style="q2">Let us go forth to the field;</para>
+	<para style="q2">Let us lodge in the villages.</para>
+	<para style="q2"><verse number="12" style="v" />Let us get up early to the vineyards;</para>
+	<para style="q2">Let us <note style="x" caller="-"><char style="xt" closed="false">Song 6:11</char></note>see if the vine has budded,</para>
+	<para style="q2"><char style="it">Whether</char> the grape blossoms are open,</para>
+	<para style="q2"><char style="it">And</char> the pomegranates are in bloom.</para>
+	<para style="q2">There I will give you my love.</para>
+	<para style="q2"><verse number="13" style="v" />The <note style="x" caller="-"><char style="xt" closed="false">Gen. 30:14</char></note>mandrakes give off a fragrance,</para>
+	<para style="q2">And at our gates <note style="x" caller="-"><char style="xt" closed="false">Song 2:3; 4:13, 16; Matt. 13:52</char></note><char style="it">are</char> pleasant <char style="it">fruits,</char></para>
+	<para style="q2">All manner, new and old,</para>
+	<para style="q2">Which I have laid up for you, my beloved.</para>
+	<chapter number="8" style="c" />
+	<para style="q1"><verse number="1" style="v" />Oh, that you were like my brother,</para>
+	<para style="q2">Who nursed at my mother’s breasts!</para>
+	<para style="q2"><char style="it">If</char> I should find you outside,</para>
+	<para style="q2">I would kiss you;</para>
+	<para style="q2">I would not be despised.</para>
+	<para style="q2"><verse number="2" style="v" />I would lead you <char style="it">and</char> bring you</para>
+	<para style="q2">Into the <note style="x" caller="-"><char style="xt" closed="false">Song 3:4</char></note>house of my mother,</para>
+	<para style="q2">She <char style="it">who</char> used to instruct me.</para>
+	<para style="q2">I would cause you to drink of <note style="x" caller="-"><char style="xt" closed="false">Prov. 9:2</char></note>spiced wine,</para>
+	<para style="q2">Of the juice of my pomegranate.</para>
+	<para style="qa">(To the Daughters of Jerusalem)</para>
+	<para style="q1"><verse number="3" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 2:6</char></note>His left hand <char style="it">is</char> under my head,</para>
+	<para style="q2">And his right hand embraces me.</para>
+	<para style="q2"><verse number="4" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 2:7; 3:5</char></note>I charge you, O daughters of Jerusalem,</para>
+	<para style="q2">Do not stir up nor awaken love</para>
+	<para style="q2">Until it pleases.</para>
+	<para style="s">Love Renewed in Lebanon</para>
+	<para style="qa">A Relative</para>
+	<para style="q1"><verse number="5" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Song 3:6</char></note>Who <char style="it">is</char> this coming up from the wilderness,</para>
+	<para style="q2">Leaning upon her beloved?</para>
+	<para style="q1">I awakened you under the apple tree.</para>
+	<para style="q2">There your mother brought you forth;</para>
+	<para style="q2">There she <char style="it">who</char> bore you brought <char style="it">you</char> forth.</para>
+	<para style="qa">The Shulamite to Her Beloved</para>
+	<para style="q1"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Is. 49:16; Jer. 22:24; Hag. 2:23</char></note>Set me as a seal upon your heart,</para>
+	<para style="q2">As a seal upon your arm;</para>
+	<para style="q2">For love <char style="it">is</char> <char style="it">as</char> strong as death,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Prov. 6:34, 35</char></note>Jealousy <char style="it">as</char> cruel as the grave;</para>
+	<para style="q2">Its flames <char style="it">are</char> flames of fire,</para>
+	<para style="q2">A most vehement flame.</para>
+	<para style="q1"><verse number="7" style="v" />Many waters cannot quench love,</para>
+	<para style="q2">Nor can the floods drown it.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Prov. 6:35</char></note>If a man would give for love</para>
+	<para style="q2">All the wealth of his house,</para>
+	<para style="q2">It would be utterly despised.</para>
+	<para style="qa">The Shulamite’s Brothers</para>
+	<para style="q1"><verse number="8" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ezek. 23:33</char></note>We have a little sister,</para>
+	<para style="q2">And she has no breasts.</para>
+	<para style="q2">What shall we do for our sister</para>
+	<para style="q2">In the day when she is spoken for?</para>
+	<para style="q2"><verse number="9" style="v" />If she <char style="it">is</char> a wall,</para>
+	<para style="q2">We will build upon her</para>
+	<para style="q2">A battlement of silver;</para>
+	<para style="q2">And if she <char style="it">is</char> a door,</para>
+	<para style="q2">We will enclose her</para>
+	<para style="q2">With boards of cedar.</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="10" style="v" />I <char style="it">am</char> a wall,</para>
+	<para style="q2">And my breasts like towers;</para>
+	<para style="q2">Then I became in his eyes</para>
+	<para style="q2">As one who found peace.</para>
+	<para style="q2"><verse number="11" style="v" />Solomon had a vineyard at Baal Hamon;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Matt. 21:33</char></note>He leased the vineyard to keepers;</para>
+	<para style="q2">Everyone was to bring for its fruit</para>
+	<para style="q2">A thousand silver <char style="it">coins</char>.</para>
+	<para style="qa">(To Solomon)</para>
+	<para style="q1"><verse number="12" style="v" />My own vineyard <char style="it">is</char> before me.</para>
+	<para style="q2">You, O Solomon, <char style="it">may</char> <char style="it">have</char> a thousand,</para>
+	<para style="q2">And those who tend its fruit two hundred.</para>
+	<para style="qa">The Beloved</para>
+	<para style="q1"><verse number="13" style="v" />You who dwell in the gardens,</para>
+	<para style="q2">The companions listen for your voice—</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Song 2:14</char></note>Let me hear it!</para>
+	<para style="qa">The Shulamite</para>
+	<para style="q1"><verse number="14" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Rev. 22:17, 20</char></note>Make haste, my beloved,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Song 2:7, 9, 17</char></note>be like a gazelle</para>
+	<para style="q2">Or a young stag</para>
+	<para style="q2">On the mountains of spices.</para>
+	
+</usx>

@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.0">
+    <book code="ECC" style="id">The Book of Ecclesiastes</book>
+    <para style="mt">The Book of Ecclesiastes</para>
+    <chapter number="1" style="c" />
+	<para style="s">The Vanity of Life</para>
+	<para style="p"><verse number="1" style="v" />The words of the Preacher, the son of David, <note style="x" caller="-"><char style="xt" closed="false">Prov. 1:1</char></note>king in Jerusalem.</para>
+	<para style="q1"><verse number="2" style="v" />“Vanity<note style="x" caller="-"><char style="xt" closed="false">Ps. 39:5, 6; 62:9; 144:4; Eccl. 12:8</char></note> of vanities,” says the Preacher;</para>
+	<para style="q2">“Vanity of vanities, <note style="x" caller="-"><char style="xt" closed="false">(Rom. 8:20, 21)</char></note>all <char style="it">is</char> vanity.”</para>
+	<para style="q1"><verse number="3" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:22; 3:9</char></note>What profit has a man from all his labor</para>
+	<para style="q2">In which he toils under the sun?</para>
+	<para style="q2"><verse number="4" style="v" /><char style="it">One</char> generation passes away, and <char style="it">another</char> generation comes;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 104:5; 119:90</char></note>But the earth abides forever.</para>
+	<para style="q2"><verse number="5" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 19:4–6</char></note>The sun also rises, and the sun goes down,</para>
+	<para style="q2">And hastens to the place where it arose.</para>
+	<para style="q2"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 11:5; John 3:8</char></note>The wind goes toward the south,</para>
+	<para style="q2">And turns around to the north;</para>
+	<para style="q2">The wind whirls about continually,</para>
+	<para style="q2">And comes again on its circuit.</para>
+	<para style="q2"><verse number="7" style="v" /><note style="x" caller="-"><char style="xt" closed="false">(Ps. 104:8, 9; Jer. 5:22)</char></note>All the rivers run into the sea,</para>
+	<para style="q2">Yet the sea <char style="it">is</char> not full;</para>
+	<para style="q2">To the place from which the rivers come,</para>
+	<para style="q2">There they return again.</para>
+	<para style="q2"><verse number="8" style="v" />All things <char style="it">are</char> full of labor;</para>
+	<para style="q2">Man cannot express <char style="it">it.</char></para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Prov. 27:20; Eccl. 4:8</char></note>The eye is not satisfied with seeing,</para>
+	<para style="q2">Nor the ear filled with hearing.</para>
+	<para style="q1"><verse number="9" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 3:15</char></note>That which has been <char style="it">is</char> what will be,</para>
+	<para style="q2">That which <char style="it">is</char> done is what will be done,</para>
+	<para style="q2">And <char style="it">there</char> <char style="it">is</char> nothing new under the sun.</para>
+	<para style="q2"><verse number="10" style="v" />Is there anything of which it may be said,</para>
+	<para style="q2">“See, this <char style="it">is</char> new”?</para>
+	<para style="q2">It has already been in ancient times before us.</para>
+	<para style="q2"><verse number="11" style="v" /><char style="it">There</char> <char style="it">is</char> <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:16</char></note>no remembrance of former <char style="it">things,</char></para>
+	<para style="q2">Nor will there be any remembrance of <char style="it">things</char> that are to come</para>
+	<para style="q2">By <char style="it">those</char> who will come after.</para>
+	<para style="s">The Grief of Wisdom</para>
+	<para style="p"><verse number="12" style="v" />I, the Preacher, was king over Israel in Jerusalem. <verse number="13" style="v" />And I set my heart to seek and <note style="x" caller="-"><char style="xt" closed="false">(Eccl. 7:25; 8:16, 17)</char></note>search out by wisdom concerning all that is done under heaven; <note style="x" caller="-"><char style="xt" closed="false">Gen. 3:19; Eccl. 3:10</char></note>this burdensome task God has given to the sons of man, by which they may be exercised. <verse number="14" style="v" />I have seen all the works that are done under the sun; and indeed, all <char style="it">is</char> vanity and grasping for the wind.</para>
+	<para style="q1"><verse number="15" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 7:13</char></note><char style="it">What</char> <char style="it">is</char> crooked cannot be made straight,</para>
+	<para style="q2">And what is lacking cannot be numbered.</para>
+	<para style="p"><verse number="16" style="v" />I communed with my heart, saying, “Look, I have attained greatness, and have gained <note style="x" caller="-"><char style="xt" closed="false">1 Kin. 3:12, 13; Eccl. 2:9</char></note>more wisdom than all who were before me in Jerusalem. My heart has understood great wisdom and knowledge.” <verse number="17" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:3, 12; 7:23, 25; (1 Thess. 5:21)</char></note>And I set my heart to know wisdom and to know madness and folly. I perceived that this also is grasping for the wind.</para>
+	<para style="q1"><verse number="18" style="v" />For <note style="x" caller="-"><char style="xt" closed="false">Eccl. 12:12</char></note>in much wisdom <char style="it">is</char> much grief,</para>
+	<para style="q2">And he who increases knowledge increases sorrow.</para>
+	<chapter number="2" style="c" />
+	<para style="s">The Vanity of Pleasure</para>
+	<para style="p"><verse number="1" style="v" />I said <note style="x" caller="-"><char style="xt" closed="false">Luke 12:19</char></note>in my heart, “Come now, I will test you with <note style="x" caller="-"><char style="xt" closed="false">Prov. 14:13; (Eccl. 7:4; 8:15)</char></note>mirth; therefore enjoy pleasure”; but surely, <note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:2</char></note>this also <char style="it">was</char> vanity. <verse number="2" style="v" />I said of laughter—“Madness!”; and of mirth, “What does it accomplish?” <verse number="3" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:17</char></note>I searched in my heart <char style="it">how</char> to gratify my flesh with wine, while guiding my heart with wisdom, and how to lay hold on folly, till I might see what <char style="it">was</char> <note style="x" caller="-"><char style="xt" closed="false">(Eccl. 3:12, 13; 5:18; 6:12)</char></note>good for the sons of men to do under heaven all the days of their lives.</para>
+	<para style="p"><verse number="4" style="v" />I made my works great, I built myself <note style="x" caller="-"><char style="xt" closed="false">1 Kin. 7:1–12</char></note>houses, and planted myself vineyards. <verse number="5" style="v" />I made myself gardens and orchards, and I planted all <char style="it">kinds</char> of fruit trees in them. <verse number="6" style="v" />I made myself water pools from which to water the growing trees of the grove. <verse number="7" style="v" />I acquired male and female servants, and had servants born in my house. Yes, I had greater possessions of herds and flocks than all who were in Jerusalem before me. <verse number="8" style="v" /><note style="x" caller="-"><char style="xt" closed="false">1 Kin. 9:28; 10:10, 14, 21</char></note>I also gathered for myself silver and gold and the special treasures of kings and of the provinces. I acquired male and female singers, the delights of the sons of men, <char style="it">and</char> musical instruments of all kinds.</para>
+	<para style="p"><verse number="9" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:16</char></note>So I became great and excelled <note style="x" caller="-"><char style="xt" closed="false">2 Chr. 9:22</char></note>more than all who were before me in Jerusalem. Also my wisdom remained with me.</para>
+	<para style="q1"><verse number="10" style="v" />Whatever my eyes desired I did not keep from them.</para>
+	<para style="q2">I did not withhold my heart from any pleasure,</para>
+	<para style="q2">For my heart rejoiced in all my labor;</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Eccl. 3:22; 5:18; 9:9</char></note>this was my reward from all my labor.</para>
+	<para style="q2"><verse number="11" style="v" />Then I looked on all the works that my hands had done</para>
+	<para style="q2">And on the labor in which I had toiled;</para>
+	<para style="q2">And indeed all <char style="it">was</char> <note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:3, 14</char></note>vanity and grasping for the wind.</para>
+	<para style="q2"><char style="it">There</char> <char style="it">was</char> no profit under the sun.</para>
+	<para style="s">The End of the Wise and the Fool</para>
+	<para style="q1"><verse number="12" style="v" />Then I turned myself to consider wisdom <note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:17; 7:25</char></note>and madness and folly;</para>
+	<para style="q2">For what <char style="it">can</char> the man <char style="it">do</char> who succeeds the king?—</para>
+	<para style="q2"><char style="it">Only</char> what he has already <note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:9</char></note>done.</para>
+	<para style="q2"><verse number="13" style="v" />Then I saw that wisdom <note style="x" caller="-"><char style="xt" closed="false">Eccl. 7:11, 14, 19; 9:18; 10:10</char></note>excels folly</para>
+	<para style="q2">As light excels darkness.</para>
+	<para style="q2"><verse number="14" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 17:24; Eccl. 8:1</char></note>The wise man’s eyes <char style="it">are</char> in his head,</para>
+	<para style="q2">But the fool walks in darkness.</para>
+	<para style="q2">Yet I myself perceived</para>
+	<para style="q2">That <note style="x" caller="-"><char style="xt" closed="false">Ps. 49:10; Eccl. 9:2, 3, 11</char></note>the same event happens to them all.</para>
+	<para style="q1"><verse number="15" style="v" />So I said in my heart,</para>
+	<para style="q2">“As it happens to the fool,</para>
+	<para style="q2">It also happens to me,</para>
+	<para style="q2">And why was I then more wise?”</para>
+	<para style="q2">Then I said in my heart,</para>
+	<para style="q2">“This also <char style="it">is</char> vanity.”</para>
+	<para style="q2"><verse number="16" style="v" />For <char style="it">there</char> <char style="it">is</char> <note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:11; 4:16</char></note>no more remembrance of the wise than of the fool forever,</para>
+	<para style="q2">Since all that now <char style="it">is</char> will be forgotten in the days to come.</para>
+	<para style="q2">And how does a wise <char style="it">man</char> die?</para>
+	<para style="q2">As the fool!</para>
+	<para style="p"><verse number="17" style="v" />Therefore I hated life because the work that was done under the sun <char style="it">was</char> distressing to me, for all <char style="it">is</char> vanity and grasping for the wind.</para>
+	<para style="p"><verse number="18" style="v" />Then I hated all my labor in which I had toiled under the sun, because <note style="x" caller="-"><char style="xt" closed="false">Ps. 49:10</char></note>I must leave it to the man who will come after me. <verse number="19" style="v" />And who knows whether he will be wise or a fool? Yet he will rule over all my labor in which I toiled and in which I have shown myself wise under the sun. This also <char style="it">is</char> vanity. <verse number="20" style="v" />Therefore I turned my heart and despaired of all the labor in which I had toiled under the sun. <verse number="21" style="v" />For there is a man whose labor <char style="it">is</char> with wisdom, knowledge, and skill; yet he must leave his heritage to a man who has not labored for it. This also <char style="it">is</char> vanity and a great evil. <verse number="22" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:3; 3:9</char></note>For what has man for all his labor, and for the striving of his heart with which he has toiled under the sun? <verse number="23" style="v" />For all his days <char style="it">are</char> <note style="x" caller="-"><char style="xt" closed="false">Job 5:7; 14:1</char></note>sorrowful, and his work burdensome; even in the night his heart takes no rest. This also is vanity.</para>
+	<para style="p"><verse number="24" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 3:12, 13, 22; Is. 56:12; Luke 12:19; 1 Cor. 15:32; (1 Tim. 6:17)</char></note>Nothing <char style="it">is</char> better for a man <char style="it">than</char> that he should eat and drink, and <char style="it">that</char> his soul should enjoy good in his labor. This also, I saw, was from the hand of God. <verse number="25" style="v" />For who can eat, or who can have enjoyment, more than I? <verse number="26" style="v" />For <char style="it">God</char> gives <note style="x" caller="-"><char style="xt" closed="false">Job 32:8; Prov. 2:6; James 1:5</char></note>wisdom and knowledge and joy to a man who <char style="it">is</char> good in His sight; but to the sinner He gives the work of gathering and collecting, that <note style="x" caller="-"><char style="xt" closed="false">Job 27:16, 17; Prov. 28:8</char></note>he may give to <char style="it">him</char> <char style="it">who</char> <char style="it">is</char> good before God. This also <char style="it">is</char> vanity and grasping for the wind.</para>
+	<chapter number="3" style="c" />
+	<para style="s">Everything Has Its Time</para>
+	<para style="q1"><verse number="1" style="v" />To everything <char style="it">there</char> <char style="it">is</char> a season,</para>
+	<para style="q2">A <note style="x" caller="-"><char style="xt" closed="false">Eccl. 3:17; 8:6</char></note>time for every purpose under heaven:</para>
+	<para style="q1"><verse number="2" style="v" />A time to be born,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Job 14:5; Heb. 9:27</char></note>a time to die;</para>
+	<para style="q2">A time to plant,</para>
+	<para style="q2">And a time to pluck <char style="it">what</char> <char style="it">is</char> planted;</para>
+	<para style="q2"><verse number="3" style="v" />A time to kill,</para>
+	<para style="q2">And a time to heal;</para>
+	<para style="q2">A time to break down,</para>
+	<para style="q2">And a time to build up;</para>
+	<para style="q2"><verse number="4" style="v" />A time to <note style="x" caller="-"><char style="xt" closed="false">Rom. 12:15</char></note>weep,</para>
+	<para style="q2">And a time to laugh;</para>
+	<para style="q2">A time to mourn,</para>
+	<para style="q2">And a time to dance;</para>
+	<para style="q2"><verse number="5" style="v" />A time to cast away stones,</para>
+	<para style="q2">And a time to gather stones;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Joel 2:16; 1 Cor. 7:5</char></note>A time to embrace,</para>
+	<para style="q2">And a time to refrain from embracing;</para>
+	<para style="q2"><verse number="6" style="v" />A time to gain,</para>
+	<para style="q2">And a time to lose;</para>
+	<para style="q2">A time to keep,</para>
+	<para style="q2">And a time to throw away;</para>
+	<para style="q2"><verse number="7" style="v" />A time to tear,</para>
+	<para style="q2">And a time to sew;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Amos 5:13</char></note>A time to keep silence,</para>
+	<para style="q2">And a time to <note style="x" caller="-"><char style="xt" closed="false">Prov. 25:11</char></note>speak;</para>
+	<para style="q2"><verse number="8" style="v" />A time to love,</para>
+	<para style="q2">And a time to <note style="x" caller="-"><char style="xt" closed="false">Prov. 13:5; Luke 14:26</char></note>hate;</para>
+	<para style="q2">A time of war,</para>
+	<para style="q2">And a time of peace.</para>
+	<para style="s">The God-Given Task</para>
+	<para style="p"><verse number="9" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:3</char></note>What profit has the worker from that in which he labors? <verse number="10" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:13</char></note>I have seen the God-given task with which the sons of men are to be occupied. <verse number="11" style="v" />He has made everything beautiful in its time. Also He has put eternity in their hearts, except that <note style="x" caller="-"><char style="xt" closed="false">Job 5:9; Eccl. 7:23; 8:17; Rom. 11:33</char></note>no one can find out the work that God does from beginning to end.</para>
+	<para style="p"><verse number="12" style="v" />I know that nothing <char style="it">is</char> <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:3, 24</char></note>better for them than to rejoice, and to do good in their lives, <verse number="13" style="v" />and also that <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:24</char></note>every man should eat and drink and enjoy the good of all his labor—it <char style="it">is</char> the gift of God.</para>
+	<para style="q1"><verse number="14" style="v" />I know that whatever God does,</para>
+	<para style="q2">It shall be forever.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">James 1:17</char></note>Nothing can be added to it,</para>
+	<para style="q2">And nothing taken from it.</para>
+	<para style="q2">God does <char style="it">it,</char> that men should fear before Him.</para>
+	<para style="q2"><verse number="15" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:9</char></note>That which is has already been,</para>
+	<para style="q2">And what is to be has already been;</para>
+	<para style="q2">And God requires an account of what is past.</para>
+	<para style="s">Injustice Seems to Prevail</para>
+	<para style="p"><verse number="16" style="v" />Moreover <note style="x" caller="-"><char style="xt" closed="false">Eccl. 5:8</char></note>I saw under the sun:</para>
+	<para style="q1"><char style="it">In</char> the place of judgment,</para>
+	<para style="q2">Wickedness <char style="it">was</char> there;</para>
+	<para style="q2">And <char style="it">in</char> the place of righteousness,</para>
+	<para style="q2">Iniquity <char style="it">was</char> there.</para>
+	<para style="p"><verse number="17" style="v" />I said in my heart,</para>
+	<para style="q1"><note style="x" caller="-"><char style="xt" closed="false">Gen. 18:25; Ps. 96:13; Eccl. 11:9; (Matt. 16:27; Rom. 2:6–10; 2 Cor. 5:10; 2 Thess. 1:6–9)</char></note>“God shall judge the righteous and the wicked,</para>
+	<para style="q2">For <char style="it">there</char> <char style="it">is</char> a time there for every purpose and for every work.”</para>
+	<para style="p"><verse number="18" style="v" />I said in my heart, “Concerning the condition of the sons of men, God tests them, that they may see that they themselves are <char style="it">like</char> animals.” <verse number="19" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 49:12, 20; 73:22; (Eccl. 2:16)</char></note>For what happens to the sons of men also happens to animals; one thing befalls them: as one dies, so dies the other. Surely, they all have one breath; man has no advantage over animals, for all <char style="it">is</char> vanity. <verse number="20" style="v" />All go to one place: <note style="x" caller="-"><char style="xt" closed="false">Gen. 3:19; Ps. 103:14</char></note>all are from the dust, and all return to dust. <verse number="21" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 12:7</char></note>Who knows the spirit of the sons of men, which goes upward, and the spirit of the animal, which goes down to the earth? <verse number="22" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:24; 5:18</char></note>So I perceived that nothing <char style="it">is</char> better than that a man should rejoice in his own works, for <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:10</char></note>that <char style="it">is</char> his heritage. <note style="x" caller="-"><char style="xt" closed="false">Eccl. 6:12; 8:7</char></note>For who can bring him to see what will happen after him?</para>
+	<chapter number="4" style="c" />
+	<para style="p"><verse number="1" style="v" />Then I returned and considered all the <note style="x" caller="-"><char style="xt" closed="false">Job 35:9; Ps. 12:5; Eccl. 3:16; 5:8; Is. 5:7</char></note>oppression that is done under the sun:</para>
+	<para style="q1">And look! The tears of the oppressed,</para>
+	<para style="q2">But they have no comforter—</para>
+	<para style="q2">On the side of their oppressors <char style="it">there</char> <char style="it">is</char> power,</para>
+	<para style="q2">But they have no comforter.</para>
+	<para style="q2"><verse number="2" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Job 3:17, 18</char></note>Therefore I praised the dead who were already dead,</para>
+	<para style="q2">More than the living who are still alive.</para>
+	<para style="q2"><verse number="3" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Job 3:11–22; Eccl. 6:3; Luke 23:29</char></note>Yet, better than both <char style="it">is</char> <char style="it">he</char> who has never existed,</para>
+	<para style="q2">Who has not seen the evil work that is done under the sun.</para>
+	<para style="s">The Vanity of Selfish Toil</para>
+	<para style="p"><verse number="4" style="v" />Again, I saw that for all toil and every skillful work a man is envied by his neighbor. This also <char style="it">is</char> vanity and grasping for the wind.</para>
+	<para style="q1"><verse number="5" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 6:10; 24:33</char></note>The fool folds his hands</para>
+	<para style="q2">And consumes his own flesh.</para>
+	<para style="q2"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 15:16, 17; 16:8</char></note>Better a handful <char style="it">with</char> quietness</para>
+	<para style="q2">Than both hands full, <char style="it">together</char> <char style="it">with</char> toil and grasping for the wind.</para>
+	<para style="p"><verse number="7" style="v" />Then I returned, and I saw vanity under the sun:</para>
+	<para style="q1"><verse number="8" style="v" />There is one alone, without companion:</para>
+	<para style="q2">He has neither son nor brother.</para>
+	<para style="q2">Yet <char style="it">there</char> <char style="it">is</char> no end to all his labors,</para>
+	<para style="q2">Nor is his <note style="x" caller="-"><char style="xt" closed="false">Prov. 27:20; Eccl. 5:10; (1 John 2:16)</char></note>eye satisfied with riches.</para>
+	<para style="q2"><char style="it">But</char> <note style="x" caller="-"><char style="xt" closed="false">Ps. 39:6</char></note>he never asks,</para>
+	<para style="q2">“For whom do I toil and deprive myself of <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:18–21</char></note>good?”</para>
+	<para style="q2">This also <char style="it">is</char> vanity and a grave misfortune.</para>
+	<para style="s">The Value of a Friend</para>
+	<para style="q1"><verse number="9" style="v" />Two <char style="it">are</char> better than one,</para>
+	<para style="q2">Because they have a good reward for their labor.</para>
+	<para style="q2"><verse number="10" style="v" />For if they fall, one will lift up his companion.</para>
+	<para style="q2">But woe to him <char style="it">who</char> <char style="it">is</char> alone when he falls,</para>
+	<para style="q2">For <char style="it">he</char> <char style="it">has</char> no one to help him up.</para>
+	<para style="q2"><verse number="11" style="v" />Again, if two lie down together, they will keep warm;</para>
+	<para style="q2">But how can one be warm <char style="it">alone?</char></para>
+	<para style="q2"><verse number="12" style="v" />Though one may be overpowered by another, two can withstand him.</para>
+	<para style="q2">And a threefold cord is not quickly broken.</para>
+	<para style="s">Popularity Passes Away</para>
+	<para style="q1"><verse number="13" style="v" />Better a poor and wise youth</para>
+	<para style="q2">Than an old and foolish king who will be admonished no more.</para>
+	<para style="q2"><verse number="14" style="v" />For he comes out of prison to be king,</para>
+	<para style="q2">Although he was born poor in his kingdom.</para>
+	<para style="q2"><verse number="15" style="v" />I saw all the living who walk under the sun;</para>
+	<para style="q2">They were with the second youth who stands in his place.</para>
+	<para style="q2"><verse number="16" style="v" /><char style="it">There</char> <char style="it">was</char> no end of all the people over whom he was made king;</para>
+	<para style="q2">Yet those who come afterward will not rejoice in him.</para>
+	<para style="q2">Surely this also <char style="it">is</char> vanity and grasping for the wind.</para>
+	<chapter number="5" style="c" />
+	<para style="s">Fear God, Keep Your Vows</para>
+	<para style="p"><verse number="1" style="v" />Walk <note style="x" caller="-"><char style="xt" closed="false">Ex. 3:5; Is. 1:12</char></note>prudently when you go to the house of God; and draw near to hear rather <note style="x" caller="-"><char style="xt" closed="false">(1 Sam. 15:22); Ps. 50:8; Prov. 15:8; 21:27; (Hos. 6:6)</char></note>than to give the sacrifice of fools, for they do not know that they do evil.</para>
+	<para style="q1"><verse number="2" style="v" />Do not be <note style="x" caller="-"><char style="xt" closed="false">Prov. 20:25</char></note>rash with your mouth,</para>
+	<para style="q2">And let not your heart utter anything hastily before God.</para>
+	<para style="q2">For God <char style="it">is</char> in heaven, and you on earth;</para>
+	<para style="q2">Therefore let your words <note style="x" caller="-"><char style="xt" closed="false">Prov. 10:19; Matt. 6:7</char></note>be few.</para>
+	<para style="q2"><verse number="3" style="v" />For a dream comes through much activity,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Prov. 10:19</char></note>a fool’s voice <char style="it">is</char> <char style="it">known</char> by <char style="it">his</char> many words.</para>
+	<para style="q1"><verse number="4" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Num. 30:2; Deut. 23:21–23; Ps. 50:14; 76:11</char></note>When you make a vow to God, do not delay to <note style="x" caller="-"><char style="xt" closed="false">Ps. 66:13, 14</char></note>pay it;</para>
+	<para style="q2">For <char style="it">He</char> <char style="it">has</char> no pleasure in fools.</para>
+	<para style="q2">Pay what you have vowed—</para>
+	<para style="q2"><verse number="5" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 20:25; Acts 5:4</char></note>Better not to vow than to vow and not pay.</para>
+	<para style="p"><verse number="6" style="v" />Do not let your <note style="x" caller="-"><char style="xt" closed="false">Prov. 6:2</char></note>mouth cause your flesh to sin, <note style="x" caller="-"><char style="xt" closed="false">1 Cor. 11:10</char></note>nor say before the messenger <char style="it">of</char> <char style="it">God</char> that it <char style="it">was</char> an error. Why should God be angry at your excuse and destroy the work of your hands? <verse number="7" style="v" />For in the multitude of dreams and many words <char style="it">there</char> <char style="it">is</char> also vanity. But <note style="x" caller="-"><char style="xt" closed="false">(Eccl. 12:13)</char></note>fear God.</para>
+	<para style="s">The Vanity of Gain and Honor</para>
+	<para style="p"><verse number="8" style="v" />If you <note style="x" caller="-"><char style="xt" closed="false">Eccl. 3:16</char></note>see the oppression of the poor, and the violent perversion of justice and righteousness in a province, do not marvel at the matter; for <note style="x" caller="-"><char style="xt" closed="false">(Ps. 12:5; 58:11; 82:1)</char></note>high official watches over high official, and higher officials are over them.</para>
+	<para style="p"><verse number="9" style="v" />Moreover the profit of the land is for all; <char style="it">even</char> the king is served from the field.</para>
+	<para style="q1"><verse number="10" style="v" />He who loves silver will not be satisfied with silver;</para>
+	<para style="q2">Nor he who loves abundance, with increase.</para>
+	<para style="q2">This also <char style="it">is</char> vanity.</para>
+	<para style="q1"><verse number="11" style="v" />When goods increase,</para>
+	<para style="q2">They increase who eat them;</para>
+	<para style="q2">So what profit have the owners</para>
+	<para style="q2">Except to see <char style="it">them</char> with their eyes?</para>
+	<para style="q1"><verse number="12" style="v" />The sleep of a laboring man <char style="it">is</char> sweet,</para>
+	<para style="q2">Whether he eats little or much;</para>
+	<para style="q2">But the abundance of the rich will not permit him to sleep.</para>
+	<para style="q1"><verse number="13" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 6:1, 2</char></note>There is a severe evil <char style="it">which</char> I have seen under the sun:</para>
+	<para style="q2">Riches kept for their owner to his hurt.</para>
+	<para style="q2"><verse number="14" style="v" />But those riches perish through misfortune;</para>
+	<para style="q2">When he begets a son, <char style="it">there</char> <char style="it">is</char> nothing in his hand.</para>
+	<para style="q2"><verse number="15" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Job 1:21; Ps. 49:17; 1 Tim. 6:7</char></note>As he came from his mother’s womb, naked shall he return,</para>
+	<para style="q2">To go as he came;</para>
+	<para style="q2">And he shall take nothing from his labor</para>
+	<para style="q2">Which he may carry away in his hand.</para>
+	<para style="q1"><verse number="16" style="v" />And this also <char style="it">is</char> a severe evil—</para>
+	<para style="q2">Just exactly as he came, so shall he go.</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:3</char></note>what profit has he <note style="x" caller="-"><char style="xt" closed="false">Prov. 11:29</char></note>who has labored for the wind?</para>
+	<para style="q2"><verse number="17" style="v" />All his days <note style="x" caller="-"><char style="xt" closed="false">Ps. 127:2</char></note>he also eats in darkness,</para>
+	<para style="q2">And <char style="it">he</char> <char style="it">has</char> much sorrow and sickness and anger.</para>
+	<para style="p"><verse number="18" style="v" />Here is what I have seen: <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:24; 3:12, 13; (1 Tim. 6:17)</char></note><char style="it">It</char> <char style="it">is</char> good and fitting <char style="it">for</char> <char style="it">one</char> to eat and drink, and to enjoy the good of all his labor in which he toils under the sun all the days of his life which God gives him; <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:10; 3:22</char></note>for it <char style="it">is</char> his heritage. <verse number="19" style="v" />As for <note style="x" caller="-"><char style="xt" closed="false">(Eccl. 6:2)</char></note>every man to whom God has given riches and wealth, and given him power to eat of it, to receive his heritage and rejoice in his labor—this <char style="it">is</char> the <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:24; 3:13</char></note>gift of God. <verse number="20" style="v" />For he will not dwell unduly on the days of his life, because God keeps <char style="it">him</char> busy with the joy of his heart.</para>
+	<chapter number="6" style="c" />
+	<para style="p"><verse number="1" style="v" />There<note style="x" caller="-"><char style="xt" closed="false">Eccl. 5:13</char></note> is an evil which I have seen under the sun, and it <char style="it">is</char> common among men: <verse number="2" style="v" />A man to whom God has given riches and wealth and honor, <note style="x" caller="-"><char style="xt" closed="false">Job 21:10; Ps. 17:14; 73:7</char></note>so that he lacks nothing for himself of all he desires; <note style="x" caller="-"><char style="xt" closed="false">Luke 12:20</char></note>yet God does not give him power to eat of it, but a foreigner consumes it. This <char style="it">is</char> vanity, and it <char style="it">is</char> an evil affliction.</para>
+	<para style="p"><verse number="3" style="v" />If a man begets a hundred <char style="it">children</char> and lives many years, so that the days of his years are many, but his soul is not satisfied with goodness, or <note style="x" caller="-"><char style="xt" closed="false">2 Kin. 9:35; Is. 14:19, 20; Jer. 22:19</char></note>indeed he has no burial, I say <char style="it">that</char> <note style="x" caller="-"><char style="xt" closed="false">Job 3:16; Ps. 58:8; Eccl. 4:3</char></note>a stillborn child <char style="it">is</char> better than he— <verse number="4" style="v" />for it comes in vanity and departs in darkness, and its name is covered with darkness. <verse number="5" style="v" />Though it has not seen the sun or known <char style="it">anything,</char> this has more rest than that man, <verse number="6" style="v" />even if he lives a thousand years twice—but has not seen goodness. Do not all go to one <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:14, 15</char></note>place?</para>
+	<para style="q1"><verse number="7" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 16:26</char></note>All the labor of man <char style="it">is</char> for his mouth,</para>
+	<para style="q2">And yet the soul is not satisfied.</para>
+	<para style="q2"><verse number="8" style="v" />For what more has the wise <char style="it">man</char> than the fool?</para>
+	<para style="q2">What does the poor man have,</para>
+	<para style="q2">Who knows <char style="it">how</char> to walk before the living?</para>
+	<para style="q2"><verse number="9" style="v" />Better <char style="it">is</char> the <note style="x" caller="-"><char style="xt" closed="false">Eccl. 11:9</char></note>sight of the eyes than the wandering of desire.</para>
+	<para style="q2">This also <char style="it">is</char> vanity and grasping for the wind.</para>
+	<para style="q1"><verse number="10" style="v" />Whatever one is, he has been named <note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:9; 3:15</char></note>already,</para>
+	<para style="q2">For it is known that he <char style="it">is</char> man;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Job 9:32; Is. 45:9; Jer. 49:19</char></note>And he cannot contend with Him who is mightier than he.</para>
+	<para style="q2"><verse number="11" style="v" />Since there are many things that increase vanity,</para>
+	<para style="q2">How <char style="it">is</char> man the better?</para>
+	<para style="p"><verse number="12" style="v" />For who knows what <char style="it">is</char> good for man in life, all the days of his vain life which he passes like <note style="x" caller="-"><char style="xt" closed="false">Ps. 102:11; James 4:14</char></note>a shadow? <note style="x" caller="-"><char style="xt" closed="false">Ps. 39:6; Eccl. 3:22</char></note>Who can tell a man what will happen after him under the sun?</para>
+	<chapter number="7" style="c" />
+	<para style="s">The Value of Practical Wisdom</para>
+	<para style="p"><verse number="1" style="v" />A <note style="x" caller="-"><char style="xt" closed="false">Prov. 22:1</char></note>good name <char style="it">is</char> better than precious ointment,</para>
+	<para style="q1">And the day of death than the day of one’s <note style="x" caller="-"><char style="xt" closed="false">Eccl. 4:2</char></note>birth;</para>
+	<para style="q2"><verse number="2" style="v" />Better to go to the house of mourning</para>
+	<para style="q2">Than to go to the house of feasting,</para>
+	<para style="q2">For that <char style="it">is</char> the end of all men;</para>
+	<para style="q2">And the living will take <char style="it">it</char> to <note style="x" caller="-"><char style="xt" closed="false">(Ps. 90:12)</char></note>heart.</para>
+	<para style="q2"><verse number="3" style="v" />Sorrow <char style="it">is</char> better than laughter,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">(2 Cor. 7:10)</char></note>For by a sad countenance the heart is made better.</para>
+	<para style="q2"><verse number="4" style="v" />The heart of the wise <char style="it">is</char> in the house of mourning,</para>
+	<para style="q2">But the heart of fools <char style="it">is</char> in the house of mirth.</para>
+	<para style="q1"><verse number="5" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 141:5; (Prov. 13:18; 15:31, 32)</char></note><char style="it">It</char> <char style="it">is</char> better to hear the rebuke of the wise</para>
+	<para style="q2">Than for a man to hear the song of fools.</para>
+	<para style="q2"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:2</char></note>For like the crackling of thorns under a pot,</para>
+	<para style="q2">So <char style="it">is</char> the laughter of the fool.</para>
+	<para style="q2">This also is vanity.</para>
+	<para style="q2"><verse number="7" style="v" />Surely oppression destroys a wise <char style="it">man’s</char> reason,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ex. 23:8; Deut. 16:19; (Prov. 17:8, 23)</char></note>And a bribe debases the heart.</para>
+	<para style="q1"><verse number="8" style="v" />The end of a thing <char style="it">is</char> better than its beginning;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Prov. 14:29; Gal. 5:22; Eph. 4:2</char></note>The patient in spirit <char style="it">is</char> better than the proud in spirit.</para>
+	<para style="q2"><verse number="9" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 14:17; James 1:19</char></note>Do not hasten in your spirit to be angry,</para>
+	<para style="q2">For anger rests in the bosom of fools.</para>
+	<para style="q2"><verse number="10" style="v" />Do not say,</para>
+	<para style="q2">“Why were the former days better than these?”</para>
+	<para style="q2">For you do not inquire wisely concerning this.</para>
+	<para style="q1"><verse number="11" style="v" />Wisdom <char style="it">is</char> good with an inheritance,</para>
+	<para style="q2">And profitable <note style="x" caller="-"><char style="xt" closed="false">Eccl. 11:7</char></note>to those who see the sun.</para>
+	<para style="q2"><verse number="12" style="v" />For wisdom <char style="it">is</char> a <note style="x" caller="-"><char style="xt" closed="false">Eccl. 9:18</char></note>defense <char style="it">as</char> money <char style="it">is</char> a defense,</para>
+	<para style="q2">But the excellence of knowledge <char style="it">is</char> <char style="it">that</char> wisdom gives <note style="x" caller="-"><char style="xt" closed="false">Prov. 3:18</char></note>life to those who have it.</para>
+	<para style="q1"><verse number="13" style="v" />Consider the work of God;</para>
+	<para style="q2">For <note style="x" caller="-"><char style="xt" closed="false">Job 12:14</char></note>who can make straight what He has made crooked?</para>
+	<para style="q2"><verse number="14" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Deut. 28:47</char></note>In the day of prosperity be joyful,</para>
+	<para style="q2">But in the day of adversity consider:</para>
+	<para style="q2">Surely God has appointed the one as well as the other,</para>
+	<para style="q2">So that man can find out nothing <char style="it">that</char> <char style="it">will</char> <char style="it">come</char> after him.</para>
+	<para style="p"><verse number="15" style="v" />I have seen everything in my days of vanity:</para>
+	<para style="q1"><note style="x" caller="-"><char style="xt" closed="false">Eccl. 8:12–14</char></note>There is a just <char style="it">man</char> who perishes in his righteousness,</para>
+	<para style="q2">And there is a wicked <char style="it">man</char> who prolongs <char style="it">life</char> in his wickedness.</para>
+	<para style="q2"><verse number="16" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 25:16; Phil. 3:6</char></note>Do not be overly righteous,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Rom. 12:3</char></note>Nor be overly wise:</para>
+	<para style="q2">Why should you destroy yourself?</para>
+	<para style="q2"><verse number="17" style="v" />Do not be overly wicked,</para>
+	<para style="q2">Nor be foolish:</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Job 15:32; Ps. 55:23</char></note>Why should you die before your time?</para>
+	<para style="q2"><verse number="18" style="v" /><char style="it">It</char> <char style="it">is</char> good that you grasp this,</para>
+	<para style="q2">And also not remove your hand from the other;</para>
+	<para style="q2">For he who <note style="x" caller="-"><char style="xt" closed="false">Eccl. 3:14; 5:7; 8:12, 13</char></note>fears God will escape them all.</para>
+	<para style="q1"><verse number="19" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 21:22; Eccl. 9:13–18</char></note>Wisdom strengthens the wise</para>
+	<para style="q2">More than ten rulers of the city.</para>
+	<para style="q1"><verse number="20" style="v" /><note style="x" caller="-"><char style="xt" closed="false">1 Kin. 8:46; 2 Chr. 6:36; Prov. 20:9; Rom. 3:23; 1 John 1:8</char></note>For <char style="it">there</char> <char style="it">is</char> not a just man on earth who does good</para>
+	<para style="q2">And does not sin.</para>
+	<para style="q1"><verse number="21" style="v" />Also do not take to heart everything people say,</para>
+	<para style="q2">Lest you hear your servant cursing you.</para>
+	<para style="q2"><verse number="22" style="v" />For many times, also, your own heart has known</para>
+	<para style="q2">That even you have cursed others.</para>
+	<para style="q1"><verse number="23" style="v" />All this I have proved by wisdom.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Rom. 1:22</char></note>I said, “I will be wise”;</para>
+	<para style="q2">But it <char style="it">was</char> far from me.</para>
+	<para style="q2"><verse number="24" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Job 28:12; 1 Tim. 6:16</char></note>As for that which is far off and <note style="x" caller="-"><char style="xt" closed="false">Rom. 11:33</char></note>exceedingly deep,</para>
+	<para style="q2">Who can find it out?</para>
+	<para style="q2"><verse number="25" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:17</char></note>I applied my heart to know,</para>
+	<para style="q2">To search and seek out wisdom and the reason <char style="it">of</char> <char style="it">things,</char></para>
+	<para style="q2">To know the wickedness of folly,</para>
+	<para style="q2">Even of foolishness <char style="it">and</char> madness.</para>
+	<para style="q2"><verse number="26" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 5:3, 4</char></note>And I find more bitter than death</para>
+	<para style="q2">The woman whose heart <char style="it">is</char> snares and nets,</para>
+	<para style="q2">Whose hands <char style="it">are</char> fetters.</para>
+	<para style="q2">He who pleases God shall escape from her,</para>
+	<para style="q2">But the sinner shall be trapped by her.</para>
+	<para style="q1"><verse number="27" style="v" />Here is what I have found,” says <note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:1, 2</char></note>the Preacher,</para>
+	<para style="q2">“<char style="it">Adding</char> one thing to the other to find out the reason,</para>
+	<para style="q2"><verse number="28" style="v" />Which my soul still seeks but I cannot find:</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Job 33:23</char></note>One man among a thousand I have found,</para>
+	<para style="q2">But a woman among all these I have not found.</para>
+	<para style="q2"><verse number="29" style="v" />Truly, this only I have found:</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Gen. 1:27</char></note>That God made man upright,</para>
+	<para style="q2">But <note style="x" caller="-"><char style="xt" closed="false">Gen. 3:6, 7</char></note>they have sought out many schemes.”</para>
+	<chapter number="8" style="c" />
+	<para style="q1"><verse number="1" style="v" />Who <char style="it">is</char> like a wise <char style="it">man?</char></para>
+	<para style="q2">And who knows the interpretation of a thing?</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Prov. 4:8, 9; Acts 6:15</char></note>A man’s wisdom makes his face shine,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Deut. 28:50</char></note>the sternness of his face is changed.</para>
+	<para style="s">Obey Authorities for God’s Sake</para>
+	<para style="p"><verse number="2" style="v" />I <char style="it">say,</char> “Keep the king’s commandment <note style="x" caller="-"><char style="xt" closed="false">Ex. 22:11; 2 Sam. 21:7; 1 Chr. 29:24; Ezek. 17:18; (Rom. 13:5)</char></note>for the sake of your oath to God. <verse number="3" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 10:4</char></note>Do not be hasty to go from his presence. Do not take your stand for an evil thing, for he does whatever pleases him.”</para>
+	<para style="q1"><verse number="4" style="v" />Where the word of a king <char style="it">is, there is</char> power;</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">1 Sam. 13:11, 13; Job 34:18</char></note>who may say to him, “What are you doing?”</para>
+	<para style="q2"><verse number="5" style="v" />He who keeps his command will experience nothing harmful;</para>
+	<para style="q2">And a wise man’s heart discerns both time and judgment,</para>
+	<para style="q2"><verse number="6" style="v" />Because <note style="x" caller="-"><char style="xt" closed="false">Eccl. 3:1, 17</char></note>for every matter there is a time and judgment,</para>
+	<para style="q2">Though the misery of man increases greatly.</para>
+	<para style="q2"><verse number="7" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 24:22; Eccl. 6:12</char></note>For he does not know what will happen;</para>
+	<para style="q2">So who can tell him when it will occur?</para>
+	<para style="q2"><verse number="8" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 49:6, 7; Job 14:5</char></note>No one has power over the spirit to retain the spirit,</para>
+	<para style="q2">And no one has power in the day of death.</para>
+	<para style="q2"><char style="it">There</char> <char style="it">is</char> <note style="x" caller="-"><char style="xt" closed="false">Deut. 20:5–8</char></note>no release from that war,</para>
+	<para style="q2">And wickedness will not deliver those who are given to it.</para>
+	<para style="p"><verse number="9" style="v" />All this I have seen, and applied my heart to every work that is done under the sun: <char style="it">There</char> <char style="it">is</char> a time in which one man rules over another to his own hurt.</para>
+	<para style="s">Death Comes to All</para>
+	<para style="p"><verse number="10" style="v" />Then I saw the wicked buried, who had come and gone from the place of holiness, and they were <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:16; 9:5</char></note>forgotten in the city where they had so done. This also <char style="it">is</char> vanity. <verse number="11" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 10:6; 50:21; Is. 26:10</char></note>Because the sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil. <verse number="12" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Is. 65:20; (Rom. 2:5–7)</char></note>Though a sinner does evil a hundred <char style="it">times,</char> and his <char style="it">days</char> are prolonged, yet I surely know that <note style="x" caller="-"><char style="xt" closed="false">(Deut. 4:40; Ps. 37:11, 18, 19; Prov. 1:32, 33; Is. 3:10; Matt. 25:34, 41)</char></note>it will be well with those who fear God, who fear before Him. <verse number="13" style="v" />But it will not be well with the wicked; nor will he prolong <char style="it">his</char> days, <char style="it">which</char> <char style="it">are</char> as a shadow, because he does not fear before God.</para>
+	<para style="p"><verse number="14" style="v" />There is a vanity which occurs on earth, that there are just <char style="it">men</char> to whom it <note style="x" caller="-"><char style="xt" closed="false">Ps. 73:14</char></note>happens according to the work of the wicked; again, there are wicked <char style="it">men</char> to whom it happens according to the work of the <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:14; 7:15; 9:1–3</char></note>righteous. I said that this also <char style="it">is</char> vanity.</para>
+	<para style="p"><verse number="15" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:24</char></note>So I commended enjoyment, because a man has nothing better under the sun than to eat, drink, and be merry; for this will remain with him in his labor <char style="it">all</char> the days of his life which God gives him under the sun.</para>
+	<para style="p"><verse number="16" style="v" />When I applied my heart to know wisdom and to see the business that is done on earth, even though one sees no sleep day or night, <verse number="17" style="v" />then I saw all the work of God, that <note style="x" caller="-"><char style="xt" closed="false">Job 5:9; Ps. 73:16; Eccl. 3:11; Rom. 11:33</char></note>a man cannot find out the work that is done under the sun. For though a man labors to discover <char style="it">it,</char> yet he will not find <char style="it">it;</char> moreover, though a wise <char style="it">man</char> attempts to know <char style="it">it,</char> he will not be able to find <char style="it">it.</char></para>
+	<chapter number="9" style="c" />
+	<para style="p"><verse number="1" style="v" />For I considered all this in my heart, so that I could declare it all: <note style="x" caller="-"><char style="xt" closed="false">Deut. 33:3; Job 12:10; Eccl. 8:14</char></note>that the righteous and the wise and their works <char style="it">are</char> in the hand of God. People know neither love nor hatred <char style="it">by</char> anything <char style="it">they</char> <char style="it">see</char> before them. <verse number="2" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Gen. 3:17–19; Job 21:7; Ps. 73:3, 12, 13; Mal. 3:15</char></note>All things <char style="it">come</char> alike to all:</para>
+	<para style="q1">One event <char style="it">happens</char> to the righteous and the wicked;</para>
+	<para style="q2">To the good, the clean, and the unclean;</para>
+	<para style="q2">To him who sacrifices and him who does not sacrifice.</para>
+	<para style="q2">As is the good, so <char style="it">is</char> the sinner;</para>
+	<para style="q2">He who takes an oath as <char style="it">he</char> who fears an oath.</para>
+	<para style="p"><verse number="3" style="v" />This <char style="it">is</char> an evil in all that is done under the sun: that one thing <char style="it">happens</char> to all. Truly the hearts of the sons of men are full of evil; madness <char style="it">is</char> in their hearts while they live, and after that <char style="it">they</char> <char style="it">go</char> to the dead. <verse number="4" style="v" />But for him who is joined to all the living there is hope, for a living dog is better than a dead lion.</para>
+	<para style="q1"><verse number="5" style="v" />For the living know that they will die;</para>
+	<para style="q2">But <note style="x" caller="-"><char style="xt" closed="false">Job 14:21; Is. 63:16</char></note>the dead know nothing,</para>
+	<para style="q2">And they have no more reward,</para>
+	<para style="q2">For <note style="x" caller="-"><char style="xt" closed="false">Job 7:8–10; Eccl. 1:11; 2:16; 8:10; Is. 26:14</char></note>the memory of them is forgotten.</para>
+	<para style="q2"><verse number="6" style="v" />Also their love, their hatred, and their envy have now perished;</para>
+	<para style="q2">Nevermore will they have a share</para>
+	<para style="q2">In anything done under the sun.</para>
+	<para style="q1"><verse number="7" style="v" />Go, <note style="x" caller="-"><char style="xt" closed="false">Eccl. 8:15</char></note>eat your bread with joy,</para>
+	<para style="q2">And drink your wine with a merry heart;</para>
+	<para style="q2">For God has already accepted your works.</para>
+	<para style="q2"><verse number="8" style="v" />Let your garments always be white,</para>
+	<para style="q2">And let your head lack no oil.</para>
+	<para style="p"><verse number="9" style="v" />Live joyfully with the wife whom you love all the days of your vain life which He has given you under the sun, all your days of vanity; <note style="x" caller="-"><char style="xt" closed="false">Eccl. 2:10</char></note>for that <char style="it">is</char> your portion in life, and in the labor which you perform under the sun.</para>
+	<para style="p"><verse number="10" style="v" /><note style="x" caller="-"><char style="xt" closed="false">(Col. 3:17)</char></note>Whatever your hand finds to do, do <char style="it">it</char> with your <note style="x" caller="-"><char style="xt" closed="false">Rom. 12:11; Col. 3:23</char></note>might; for <char style="it">there</char> <char style="it">is</char> no work or device or knowledge or wisdom in the grave where you are going.</para>
+	<para style="p"><verse number="11" style="v" />I returned <note style="x" caller="-"><char style="xt" closed="false">Jer. 9:23; Amos 2:14, 15</char></note>and saw under the sun that—</para>
+	<para style="q1">The race <char style="it">is</char> not to the swift,</para>
+	<para style="q2">Nor the battle to the strong,</para>
+	<para style="q2">Nor bread to the wise,</para>
+	<para style="q2">Nor riches to men of understanding,</para>
+	<para style="q2">Nor favor to men of skill;</para>
+	<para style="q2">But time and <note style="x" caller="-"><char style="xt" closed="false">1 Sam. 6:9</char></note>chance happen to them all.</para>
+	<para style="q2"><verse number="12" style="v" />For <note style="x" caller="-"><char style="xt" closed="false">Eccl. 8:7</char></note>man also does not know his time:</para>
+	<para style="q2">Like fish taken in a cruel net,</para>
+	<para style="q2">Like birds caught in a snare,</para>
+	<para style="q2">So the sons of men <char style="it">are</char> <note style="x" caller="-"><char style="xt" closed="false">Prov. 29:6; Luke 12:20, 39; 17:26; 1 Thess. 5:3</char></note>snared in an evil time,</para>
+	<para style="q2">When it falls suddenly upon them.</para>
+	<para style="s">Wisdom Superior to Folly</para>
+	<para style="p"><verse number="13" style="v" />This wisdom I have also seen under the sun, and it <char style="it">seemed</char> great to me: <verse number="14" style="v" /><note style="x" caller="-"><char style="xt" closed="false">2 Sam. 20:16–22</char></note><char style="it">There</char> <char style="it">was</char> a little city with few men in it; and a great king came against it, besieged it, and built great snares around it. <verse number="15" style="v" />Now there was found in it a poor wise man, and he by his wisdom delivered the city. Yet no one remembered that same poor man.</para>
+	<para style="p"><verse number="16" style="v" />Then I said:</para>
+	<para style="q1">“Wisdom <char style="it">is</char> better than <note style="x" caller="-"><char style="xt" closed="false">Eccl. 7:12, 19</char></note>strength.</para>
+	<para style="q2">Nevertheless <note style="x" caller="-"><char style="xt" closed="false">Mark 6:2, 3</char></note>the poor man’s wisdom <char style="it">is</char> despised,</para>
+	<para style="q2">And his words are not heard.</para>
+	<para style="q2"><verse number="17" style="v" />Words of the wise, <char style="it">spoken</char> quietly, <char style="it">should</char> <char style="it">be</char> heard</para>
+	<para style="q2">Rather than the shout of a ruler of fools.</para>
+	<para style="q2"><verse number="18" style="v" />Wisdom <char style="it">is</char> better than weapons of war;</para>
+	<para style="q2">But <note style="x" caller="-"><char style="xt" closed="false">Josh. 7:1–26; 2 Kin. 21:2–17</char></note>one sinner destroys much good.”</para>
+	<chapter number="10" style="c" />
+	<para style="q1"><verse number="1" style="v" />Dead flies putrefy the perfumer’s ointment,</para>
+	<para style="q2">And cause it to give off a foul odor;</para>
+	<para style="q2"><char style="it">So</char> <char style="it">does</char> a little folly to one respected for wisdom <char style="it">and</char> honor.</para>
+	<para style="q2"><verse number="2" style="v" />A wise man’s heart <char style="it">is</char> at his right hand,</para>
+	<para style="q2">But a fool’s heart at his left.</para>
+	<para style="q2"><verse number="3" style="v" />Even when a fool walks along the way,</para>
+	<para style="q2">He lacks wisdom,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Prov. 13:16; 18:2</char></note>And he shows everyone <char style="it">that</char> he <char style="it">is</char> a fool.</para>
+	<para style="q2"><verse number="4" style="v" />If the spirit of the ruler rises against you,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Eccl. 8:3</char></note>Do not leave your post;</para>
+	<para style="q2">For <note style="x" caller="-"><char style="xt" closed="false">1 Sam. 25:24–33; Prov. 25:15</char></note>conciliation pacifies great offenses.</para>
+	<para style="q1"><verse number="5" style="v" />There is an evil I have seen under the sun,</para>
+	<para style="q2">As an error proceeding from the ruler:</para>
+	<para style="q2"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Esth. 3:1</char></note>Folly is set in great dignity,</para>
+	<para style="q2">While the rich sit in a lowly place.</para>
+	<para style="q2"><verse number="7" style="v" />I have seen servants <note style="x" caller="-"><char style="xt" closed="false">Prov. 19:10; 30:22</char></note>on horses,</para>
+	<para style="q2">While princes walk on the ground like servants.</para>
+	<para style="q1"><verse number="8" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 7:15; Prov. 26:27</char></note>He who digs a pit will fall into it,</para>
+	<para style="q2">And whoever breaks through a wall will be bitten by a serpent.</para>
+	<para style="q2"><verse number="9" style="v" />He who quarries stones may be hurt by them,</para>
+	<para style="q2"><char style="it">And</char> he who splits wood may be endangered by it.</para>
+	<para style="q2"><verse number="10" style="v" />If the ax is dull,</para>
+	<para style="q2">And one does not sharpen the edge,</para>
+	<para style="q2">Then he must use more strength;</para>
+	<para style="q2">But wisdom brings success.</para>
+	<para style="q1"><verse number="11" style="v" />A serpent may bite <note style="x" caller="-"><char style="xt" closed="false">Ps. 58:4, 5; Jer. 8:17</char></note>when <char style="it">it</char> <char style="it">is</char> not charmed;</para>
+	<para style="q2">The babbler is no different.</para>
+	<para style="q2"><verse number="12" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 10:32; Luke 4:22</char></note>The words of a wise man’s mouth <char style="it">are</char> gracious,</para>
+	<para style="q2">But <note style="x" caller="-"><char style="xt" closed="false">Prov. 10:14; Eccl. 4:5</char></note>the lips of a fool shall swallow him up;</para>
+	<para style="q2"><verse number="13" style="v" />The words of his mouth begin with foolishness,</para>
+	<para style="q2">And the end of his talk <char style="it">is</char> raving madness.</para>
+	<para style="q2"><verse number="14" style="v" /><note style="x" caller="-"><char style="xt" closed="false">(Prov. 15:2); Eccl. 5:3</char></note>A fool also multiplies words.</para>
+	<para style="q2">No man knows what is to be;</para>
+	<para style="q2">Who can tell him <note style="x" caller="-"><char style="xt" closed="false">Eccl. 3:22; 8:7</char></note>what will be after him?</para>
+	<para style="q2"><verse number="15" style="v" />The labor of fools wearies them,</para>
+	<para style="q2">For they do not even know how to go to the city!</para>
+	<para style="q1"><verse number="16" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Is. 3:4, 5; 5:11</char></note>Woe to you, O land, when your king <char style="it">is</char> a child,</para>
+	<para style="q2">And your princes feast in the morning!</para>
+	<para style="q2"><verse number="17" style="v" />Blessed <char style="it">are</char> you, O land, when your king <char style="it">is</char> the son of nobles,</para>
+	<para style="q2">And your <note style="x" caller="-"><char style="xt" closed="false">Prov. 31:4; Is. 5:11</char></note>princes feast at the proper time—</para>
+	<para style="q2">For strength and not for drunkenness!</para>
+	<para style="q2"><verse number="18" style="v" />Because of laziness the building decays,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Prov. 24:30–34</char></note>through idleness of hands the house leaks.</para>
+	<para style="q2"><verse number="19" style="v" />A feast is made for laughter,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Judg. 9:13; Ps. 104:15; Eccl. 2:3</char></note>wine makes merry;</para>
+	<para style="q2">But money answers everything.</para>
+	<para style="q1"><verse number="20" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ex. 22:28; Acts 23:5</char></note>Do not curse the king, even in your thought;</para>
+	<para style="q2">Do not curse the rich, even in your bedroom;</para>
+	<para style="q2">For a bird of the air may carry your voice,</para>
+	<para style="q2">And a bird in flight may tell the matter.</para>
+	<chapter number="11" style="c" />
+	<para style="s">The Value of Diligence</para>
+	<para style="q1"><verse number="1" style="v" />Cast your bread <note style="x" caller="-"><char style="xt" closed="false">Is. 32:20</char></note>upon the waters,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">(Deut. 15:10; Prov. 19:17; Matt. 10:42; 2 Cor. 9:8; Gal. 6:9, 10; Heb. 6:10)</char></note>For you will find it after many days.</para>
+	<para style="q2"><verse number="2" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 112:9; Matt. 5:42; Luke 6:30; (1 Tim. 6:18, 19)</char></note>Give a serving <note style="x" caller="-"><char style="xt" closed="false">Mic. 5:5</char></note>to seven, and also to eight,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Eph. 5:16</char></note>For you do not know what evil will be on the earth.</para>
+	<para style="q1"><verse number="3" style="v" />If the clouds are full of rain,</para>
+	<para style="q2">They empty <char style="it">themselves</char> upon the earth;</para>
+	<para style="q2">And if a tree falls to the south or the north,</para>
+	<para style="q2">In the place where the tree falls, there it shall lie.</para>
+	<para style="q2"><verse number="4" style="v" />He who observes the wind will not sow,</para>
+	<para style="q2">And he who regards the clouds will not reap.</para>
+	<para style="q1"><verse number="5" style="v" />As <note style="x" caller="-"><char style="xt" closed="false">John 3:8</char></note>you do not know what <char style="it">is</char> the way of the wind,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 139:14</char></note><char style="it">Or</char> how the bones <char style="it">grow</char> in the womb of her who is with child,</para>
+	<para style="q2">So you do not know the works of God who makes everything.</para>
+	<para style="q2"><verse number="6" style="v" />In the morning sow your seed,</para>
+	<para style="q2">And in the evening do not withhold your hand;</para>
+	<para style="q2">For you do not know which will prosper,</para>
+	<para style="q2">Either this or that,</para>
+	<para style="q2">Or whether both alike <char style="it">will</char> <char style="it">be</char> good.</para>
+	<para style="q1"><verse number="7" style="v" />Truly the light is sweet,</para>
+	<para style="q2">And <char style="it">it</char> <char style="it">is</char> pleasant for the eyes <note style="x" caller="-"><char style="xt" closed="false">Eccl. 7:11</char></note>to behold the sun;</para>
+	<para style="q2"><verse number="8" style="v" />But if a man lives many years</para>
+	<para style="q2"><char style="it">And</char> <note style="x" caller="-"><char style="xt" closed="false">Eccl. 9:7</char></note>rejoices in them all,</para>
+	<para style="q2">Yet let him <note style="x" caller="-"><char style="xt" closed="false">Eccl. 12:1</char></note>remember the days of darkness,</para>
+	<para style="q2">For they will be many.</para>
+	<para style="q2">All that is coming <char style="it">is</char> vanity.</para>
+	<para style="s">Seek God in Early Life</para>
+	<para style="q1"><verse number="9" style="v" />Rejoice, O young man, in your youth,</para>
+	<para style="q2">And let your heart cheer you in the days of your youth;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Num. 15:39; Job 31:7; Eccl. 2:10</char></note>Walk in the ways of your heart,</para>
+	<para style="q2">And in the sight of your eyes;</para>
+	<para style="q2">But know that for all these</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Eccl. 3:17; 12:14; (Rom. 14:10)</char></note>God will bring you into judgment.</para>
+	<para style="q2"><verse number="10" style="v" />Therefore remove sorrow from your heart,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">2 Cor. 7:1; 2 Tim. 2:22</char></note>put away evil from your flesh,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 39:5</char></note>For childhood and youth <char style="it">are</char> vanity.</para>
+	<chapter number="12" style="c" />
+	<para style="q1"><verse number="1" style="v" />Remember<note style="x" caller="-"><char style="xt" closed="false">2 Chr. 34:3; Prov. 22:6; Lam. 3:27</char></note> now your Creator in the days of your youth,</para>
+	<para style="q2">Before the difficult days come,</para>
+	<para style="q2">And the years draw near <note style="x" caller="-"><char style="xt" closed="false">2 Sam. 19:35</char></note>when you say,</para>
+	<para style="q2">“I have no pleasure in them”:</para>
+	<para style="q2"><verse number="2" style="v" />While the sun and the light,</para>
+	<para style="q2">The moon and the stars,</para>
+	<para style="q2">Are not darkened,</para>
+	<para style="q2">And the clouds do not return after the rain;</para>
+	<para style="q2"><verse number="3" style="v" />In the day when the keepers of the house tremble,</para>
+	<para style="q2">And the strong men bow down;</para>
+	<para style="q2">When the grinders cease because they are few,</para>
+	<para style="q2">And those that look through the windows grow dim;</para>
+	<para style="q2"><verse number="4" style="v" />When the doors are shut in the streets,</para>
+	<para style="q2">And the sound of grinding is low;</para>
+	<para style="q2">When one rises up at the sound of a bird,</para>
+	<para style="q2">And all <note style="x" caller="-"><char style="xt" closed="false">2 Sam. 19:35</char></note>the daughters of music are brought low.</para>
+	<para style="q2"><verse number="5" style="v" />Also they are afraid of height,</para>
+	<para style="q2">And of terrors in the way;</para>
+	<para style="q2">When the almond tree blossoms,</para>
+	<para style="q2">The grasshopper is a burden,</para>
+	<para style="q2">And desire fails.</para>
+	<para style="q2">For man goes to <note style="x" caller="-"><char style="xt" closed="false">Job 17:13</char></note>his eternal home,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Gen. 50:10; Jer. 9:17</char></note>the mourners go about the streets.</para>
+	<para style="q1"><verse number="6" style="v" /><char style="it">Remember</char> <char style="it">your</char> <char style="it">Creator</char> before the silver cord is loosed,</para>
+	<para style="q2">Or the golden bowl is broken,</para>
+	<para style="q2">Or the pitcher shattered at the fountain,</para>
+	<para style="q2">Or the wheel broken at the well.</para>
+	<para style="q2"><verse number="7" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Gen. 3:19; Job 34:15; Ps. 90:3</char></note>Then the dust will return to the earth as it was,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Eccl. 3:21</char></note>And the spirit will return to God <note style="x" caller="-"><char style="xt" closed="false">Num. 16:22; 27:16; Job 34:14; Is. 57:16; Zech. 12:1</char></note>who gave it.</para>
+	<para style="q1"><verse number="8" style="v" />“Vanity<note style="x" caller="-"><char style="xt" closed="false">Ps. 62:9</char></note> of vanities,” says the Preacher,</para>
+	<para style="q2">“All <char style="it">is</char> vanity.”</para>
+	<para style="s">The Whole Duty of Man</para>
+	<para style="p"><verse number="9" style="v" />And moreover, because the Preacher was wise, he still taught the people knowledge; yes, he pondered and sought out <char style="it">and</char> <note style="x" caller="-"><char style="xt" closed="false">1 Kin. 4:32</char></note>set in order many proverbs. <verse number="10" style="v" />The Preacher sought to find acceptable words; and <char style="it">what</char> <char style="it">was</char> written <char style="it">was</char> upright—words of truth. <verse number="11" style="v" />The words of the wise are like goads, and the words of scholars are like well-driven nails, given by one Shepherd. <verse number="12" style="v" />And further, my son, be admonished by these. Of making many books <char style="it">there</char> <char style="it">is</char> no end, and <note style="x" caller="-"><char style="xt" closed="false">Eccl. 1:18</char></note>much study <char style="it">is</char> wearisome to the flesh.</para>
+	<para style="p"><verse number="13" style="v" />Let us hear the conclusion of the whole matter:</para>
+	<para style="q1"><note style="x" caller="-"><char style="xt" closed="false">(Deut. 6:2; 10:12); Mic. 6:8</char></note>Fear God and keep His commandments,</para>
+	<para style="q2">For this is man’s all.</para>
+	<para style="q2"><verse number="14" style="v" />For <note style="x" caller="-"><char style="xt" closed="false">Eccl. 11:9; Matt. 12:36; (Acts 17:30, 31; Rom. 2:16; 1 Cor. 4:5; 2 Cor. 5:10)</char></note>God will bring every work into judgment,</para>
+	<para style="q2">Including every secret thing,</para>
+	<para style="q2">Whether good or evil.</para>
+	
+</usx>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.0">
+    <book code="LAM" style="id">The Book of Lamentations</book>
+    <para style="mt">The Book of Lamentations</para>
+    <chapter number="1" style="c" />
+	<para style="s">Jerusalem in Affliction</para>
+	<para style="q1"><verse number="1" style="v" />How lonely sits the city</para>
+	<para style="q2"><char style="it">That</char> <char style="it">was</char> full of people!</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Is. 47:7–9</char></note><char style="it">How</char> like a widow is she,</para>
+	<para style="q2">Who <char style="it">was</char> great among the nations!</para>
+	<para style="q2">The <note style="x" caller="-"><char style="xt" closed="false">1 Kin. 4:21; Ezra 4:20; Jer. 31:7</char></note>princess among the provinces</para>
+	<para style="q2">Has become a slave!</para>
+	<para style="q1"><verse number="2" style="v" />She <note style="x" caller="-"><char style="xt" closed="false">Jer. 13:17</char></note>weeps bitterly in the <note style="x" caller="-"><char style="xt" closed="false">Job 7:3</char></note>night,</para>
+	<para style="q2">Her tears <char style="it">are</char> on her cheeks;</para>
+	<para style="q2">Among all her lovers</para>
+	<para style="q2">She has none to comfort <char style="it">her.</char></para>
+	<para style="q2">All her friends have dealt treacherously with her;</para>
+	<para style="q2">They have become her enemies.</para>
+	<para style="q1"><verse number="3" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Jer. 52:27</char></note>Judah has gone into captivity,</para>
+	<para style="q2">Under affliction and hard servitude;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Lam. 2:9</char></note>She dwells among the nations,</para>
+	<para style="q2">She finds no <note style="x" caller="-"><char style="xt" closed="false">Deut. 28:65</char></note>rest;</para>
+	<para style="q2">All her persecutors overtake her in dire straits.</para>
+	<para style="q1"><verse number="4" style="v" />The roads to Zion mourn</para>
+	<para style="q2">Because no one comes to the set feasts.</para>
+	<para style="q2">All her gates are <note style="x" caller="-"><char style="xt" closed="false">Is. 27:10</char></note>desolate;</para>
+	<para style="q2">Her priests sigh,</para>
+	<para style="q2">Her virgins are afflicted,</para>
+	<para style="q2">And she <char style="it">is</char> in bitterness.</para>
+	<para style="q1"><verse number="5" style="v" />Her adversaries <note style="x" caller="-"><char style="xt" closed="false">Deut. 28:43</char></note>have become the master,</para>
+	<para style="q2">Her enemies prosper;</para>
+	<para style="q2">For the <char style="sc">Lord</char> has afflicted her</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Jer. 30:14, 15; Dan. 9:7, 16</char></note>Because of the multitude of her transgressions.</para>
+	<para style="q2">Her <note style="x" caller="-"><char style="xt" closed="false">Jer. 52:28</char></note>children have gone into captivity before the enemy.</para>
+	<para style="q1"><verse number="6" style="v" />And from the daughter of Zion</para>
+	<para style="q2">All her splendor has departed.</para>
+	<para style="q2">Her princes have become like deer</para>
+	<para style="q2"><char style="it">That</char> find no pasture,</para>
+	<para style="q2">That flee without strength</para>
+	<para style="q2">Before the pursuer.</para>
+	<para style="q1"><verse number="7" style="v" />In the days of her affliction and roaming,</para>
+	<para style="q2">Jerusalem <note style="x" caller="-"><char style="xt" closed="false">Ps. 137:1</char></note>remembers all her pleasant things</para>
+	<para style="q2">That she had in the days of old.</para>
+	<para style="q2">When her people fell into the hand of the enemy,</para>
+	<para style="q2">With no one to help her,</para>
+	<para style="q2">The adversaries saw her</para>
+	<para style="q2"><char style="it">And</char> mocked at her downfall.</para>
+	<para style="q1"><verse number="8" style="v" /><note style="x" caller="-"><char style="xt" closed="false">(1 Kin. 8:46)</char></note>Jerusalem has sinned gravely,</para>
+	<para style="q2">Therefore she has become vile.</para>
+	<para style="q2">All who honored her despise her</para>
+	<para style="q2">Because <note style="x" caller="-"><char style="xt" closed="false">Jer. 13:22; Ezek. 16:37; Hos. 2:10</char></note>they have seen her nakedness;</para>
+	<para style="q2">Yes, she sighs and turns away.</para>
+	<para style="q1"><verse number="9" style="v" />Her uncleanness <char style="it">is</char> in her skirts;</para>
+	<para style="q2">She <note style="x" caller="-"><char style="xt" closed="false">Deut. 32:29; Is. 47:7; Jer. 5:31</char></note>did not consider her destiny;</para>
+	<para style="q2">Therefore her collapse was awesome;</para>
+	<para style="q2">She had no comforter.</para>
+	<para style="q2">“O <char style="sc">Lord</char>, behold my affliction,</para>
+	<para style="q2">For <char style="it">the</char> enemy is exalted!”</para>
+	<para style="q1"><verse number="10" style="v" />The adversary has spread his hand</para>
+	<para style="q2">Over all her pleasant things;</para>
+	<para style="q2">For she has seen <note style="x" caller="-"><char style="xt" closed="false">Ps. 74:4–8; Is. 64:10, 11; Jer. 51:51</char></note>the nations enter her sanctuary,</para>
+	<para style="q2">Those whom You commanded</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Deut. 23:3; Neh. 13:1</char></note>Not to enter Your assembly.</para>
+	<para style="q1"><verse number="11" style="v" />All her people sigh,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Jer. 38:9; 52:6</char></note>They seek bread;</para>
+	<para style="q2">They have given their valuables for food to restore life.</para>
+	<para style="q2">“See, O <char style="sc">Lord</char>, and consider,</para>
+	<para style="q2">For I am scorned.”</para>
+	<para style="q1"><verse number="12" style="v" />“<char style="it">Is</char> <char style="it">it</char> nothing to you, all you who pass by?</para>
+	<para style="q2">Behold and see</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Dan. 9:12</char></note>If there is any sorrow like my sorrow,</para>
+	<para style="q2">Which has been brought on me,</para>
+	<para style="q2">Which the <char style="sc">Lord</char> has inflicted</para>
+	<para style="q2">In the day of His fierce anger.</para>
+	<para style="q1"><verse number="13" style="v" />“From above He has sent fire into my bones,</para>
+	<para style="q2">And it overpowered them;</para>
+	<para style="q2">He has <note style="x" caller="-"><char style="xt" closed="false">Ezek. 12:13; 17:20</char></note>spread a net for my feet</para>
+	<para style="q2">And turned me back;</para>
+	<para style="q2">He has made me desolate</para>
+	<para style="q2"><char style="it">And</char> faint all the day.</para>
+	<para style="q1"><verse number="14" style="v" />“The<note style="x" caller="-"><char style="xt" closed="false">Deut. 28:48</char></note> yoke of my transgressions was bound;</para>
+	<para style="q2">They were woven together by His hands,</para>
+	<para style="q2"><char style="it">And</char> thrust upon my neck.</para>
+	<para style="q2">He made my strength fail;</para>
+	<para style="q2">The Lord delivered me into the hands of <char style="it">those</char> <char style="it">whom</char> I am not able to withstand.</para>
+	<para style="q1"><verse number="15" style="v" />“The Lord has trampled underfoot all my mighty <char style="it">men</char> in my midst;</para>
+	<para style="q2">He has called an assembly against me</para>
+	<para style="q2">To crush my young men;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Is. 63:3; (Rev. 14:19)</char></note>The Lord trampled <char style="it">as</char> in a winepress</para>
+	<para style="q2">The virgin daughter of Judah.</para>
+	<para style="q1"><verse number="16" style="v" />“For these <char style="it">things</char> I weep;</para>
+	<para style="q2">My eye, <note style="x" caller="-"><char style="xt" closed="false">Ps. 69:20; Eccl. 4:1; Jer. 13:17; Lam. 2:18</char></note>my eye overflows with water;</para>
+	<para style="q2">Because the comforter, who should restore my life,</para>
+	<para style="q2">Is far from me.</para>
+	<para style="q2">My children are desolate</para>
+	<para style="q2">Because the enemy prevailed.”</para>
+	<para style="q1"><verse number="17" style="v" /><note style="x" caller="-"><char style="xt" closed="false">(Is. 1:15); Jer. 4:31</char></note>Zion spreads out her hands,</para>
+	<para style="q2"><char style="it">But</char> no one comforts her;</para>
+	<para style="q2">The <char style="sc">Lord</char> has commanded concerning Jacob</para>
+	<para style="q2"><char style="it">That</char> those <note style="x" caller="-"><char style="xt" closed="false">2 Kin. 24:2–4; Jer. 12:9</char></note>around him <char style="it">become</char> his adversaries;</para>
+	<para style="q2">Jerusalem has become an unclean thing among them.</para>
+	<para style="q1"><verse number="18" style="v" />“The <char style="sc">Lord</char> is <note style="x" caller="-"><char style="xt" closed="false">Neh. 9:33; Ps. 119:75; Dan. 9:7, 14</char></note>righteous,</para>
+	<para style="q2">For I <note style="x" caller="-"><char style="xt" closed="false">1 Sam. 12:14, 15; Jer. 4:17</char></note>rebelled against His commandment.</para>
+	<para style="q2">Hear now, all peoples,</para>
+	<para style="q2">And behold my sorrow;</para>
+	<para style="q2">My virgins and my young men</para>
+	<para style="q2">Have gone into captivity.</para>
+	<para style="q1"><verse number="19" style="v" />“I called for my lovers,</para>
+	<para style="q2"><char style="it">But</char> they deceived me;</para>
+	<para style="q2">My priests and my elders</para>
+	<para style="q2">Breathed their last in the city,</para>
+	<para style="q2">While they sought food</para>
+	<para style="q2">To restore their life.</para>
+	<para style="q1"><verse number="20" style="v" />“See, O <char style="sc">Lord</char>, that I <char style="it">am</char> in distress;</para>
+	<para style="q2">My <note style="x" caller="-"><char style="xt" closed="false">Job 30:27; Is. 16:11; Jer. 4:19; Lam. 2:11; Hos. 11:8</char></note>soul is troubled;</para>
+	<para style="q2">My heart is overturned within me,</para>
+	<para style="q2">For I have been very rebellious.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Deut. 32:25; Ezek. 7:15</char></note>Outside the sword bereaves,</para>
+	<para style="q2">At home <char style="it">it</char> <char style="it">is</char> like death.</para>
+	<para style="q1"><verse number="21" style="v" />“They have heard that I sigh,</para>
+	<para style="q2"><char style="it">But</char> no one comforts me.</para>
+	<para style="q2">All my enemies have heard of my trouble;</para>
+	<para style="q2">They are <note style="x" caller="-"><char style="xt" closed="false">Ps. 35:15; Jer. 48:27; 50:11; Lam. 2:15; Obad. 12</char></note>glad that You have done <char style="it">it.</char></para>
+	<para style="q2">Bring on <note style="x" caller="-"><char style="xt" closed="false">Is. 13; (Jer. 46)</char></note>the day You have announced,</para>
+	<para style="q2">That they may become like me.</para>
+	<para style="q1"><verse number="22" style="v" />“Let<note style="x" caller="-"><char style="xt" closed="false">Neh. 4:4, 5; Ps. 109:15; 137:7, 8; Jer. 30:16</char></note> all their wickedness come before You,</para>
+	<para style="q2">And do to them as You have done to me</para>
+	<para style="q2">For all my transgressions;</para>
+	<para style="q2">For my sighs <char style="it">are</char> many,</para>
+	<para style="q2">And my heart <char style="it">is</char> faint.”</para>
+	<chapter number="2" style="c" />
+	<para style="s">God’s Anger with Jerusalem</para>
+	<para style="q1"><verse number="1" style="v" />How the Lord has covered the daughter of Zion</para>
+	<para style="q2">With a <note style="x" caller="-"><char style="xt" closed="false">(Lam. 3:44)</char></note>cloud in His anger!</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Matt. 11:23</char></note>He cast down from heaven to the earth</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">2 Sam. 1:19</char></note>The beauty of Israel,</para>
+	<para style="q2">And did not remember <note style="x" caller="-"><char style="xt" closed="false">1 Chr. 28:2; Ps. 99:5; Ezek. 43:7</char></note>His footstool</para>
+	<para style="q2">In the day of His anger.</para>
+	<para style="q1"><verse number="2" style="v" />The Lord has swallowed up and has <note style="x" caller="-"><char style="xt" closed="false">Ps. 21:9; Lam. 3:43</char></note>not pitied</para>
+	<para style="q2">All the dwelling places of Jacob.</para>
+	<para style="q2">He has thrown down in His wrath</para>
+	<para style="q2">The strongholds of the daughter of Judah;</para>
+	<para style="q2">He has brought <char style="it">them</char> down to the ground;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 89:39, 40; Is. 43:28</char></note>He has profaned the kingdom and its princes.</para>
+	<para style="q1"><verse number="3" style="v" />He has cut off in fierce anger</para>
+	<para style="q2">Every horn of Israel;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 74:11; Jer. 21:4, 5</char></note>He has drawn back His right hand</para>
+	<para style="q2">From before the enemy.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 89:46</char></note>He has blazed against Jacob like a flaming fire</para>
+	<para style="q2">Devouring all around.</para>
+	<para style="q1"><verse number="4" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Is. 63:10</char></note>Standing like an enemy, He has bent His bow;</para>
+	<para style="q2">With His right hand, like an adversary,</para>
+	<para style="q2">He has slain <note style="x" caller="-"><char style="xt" closed="false">Ezek. 24:25</char></note>all <char style="it">who</char> <char style="it">were</char> pleasing to His eye;</para>
+	<para style="q2">On the tent of the daughter of Zion,</para>
+	<para style="q2">He has poured out His fury like fire.</para>
+	<para style="q1"><verse number="5" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Jer. 30:14</char></note>The Lord was like an enemy.</para>
+	<para style="q2">He has swallowed up Israel,</para>
+	<para style="q2">He has swallowed up all her palaces;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">2 Kin. 25:9; Jer. 52:13; Lam. 2:2</char></note>He has destroyed her strongholds,</para>
+	<para style="q2">And has increased mourning and lamentation</para>
+	<para style="q2">In the daughter of Judah.</para>
+	<para style="q1"><verse number="6" style="v" />He has done violence <note style="x" caller="-"><char style="xt" closed="false">Ps. 80:12; 89:40; Is. 5:5; Jer. 7:14</char></note>to His tabernacle,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Is. 1:8; Jer. 52:13</char></note><char style="it">As</char> <char style="it">if</char> <char style="it">it</char> <char style="it">were</char> a garden;</para>
+	<para style="q2">He has destroyed His place of assembly;</para>
+	<para style="q2">The <char style="sc">Lord</char> has caused</para>
+	<para style="q2">The appointed feasts and Sabbaths to be forgotten in Zion.</para>
+	<para style="q2">In His burning indignation He has <note style="x" caller="-"><char style="xt" closed="false">Is. 43:28</char></note>spurned the king and the priest.</para>
+	<para style="q1"><verse number="7" style="v" />The Lord has spurned His altar,</para>
+	<para style="q2">He has <note style="x" caller="-"><char style="xt" closed="false">Ezek. 24:21</char></note>abandoned His sanctuary;</para>
+	<para style="q2">He has given up the walls of her palaces</para>
+	<para style="q2">Into the hand of the enemy.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 74:3–8</char></note>They have made a noise in the house of the <char style="sc">Lord</char></para>
+	<para style="q2">As on the day of a set feast.</para>
+	<para style="q1"><verse number="8" style="v" />The <char style="sc">Lord</char> has purposed to destroy</para>
+	<para style="q2">The <note style="x" caller="-"><char style="xt" closed="false">Jer. 52:14</char></note>wall of the daughter of Zion.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">(2 Kin. 21:13; Is. 34:11; Amos 7:7–9)</char></note>He has stretched out a line;</para>
+	<para style="q2">He has not withdrawn His hand from destroying;</para>
+	<para style="q2">Therefore He has caused the rampart and wall to lament;</para>
+	<para style="q2">They languished together.</para>
+	<para style="q1"><verse number="9" style="v" />Her gates have sunk into the ground;</para>
+	<para style="q2">He has destroyed and <note style="x" caller="-"><char style="xt" closed="false">Jer. 51:30</char></note>broken her bars.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Deut. 28:36; 2 Kin. 24:15; 25:7; Lam. 1:3; 4:20</char></note>Her king and her princes <char style="it">are</char> among the nations;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">2 Chr. 15:3</char></note>The Law <char style="it">is</char> no <char style="it">more,</char></para>
+	<para style="q2">And her <note style="x" caller="-"><char style="xt" closed="false">Ps. 74:9; Mic. 3:6</char></note>prophets find no vision from the <char style="sc">Lord</char>.</para>
+	<para style="q1"><verse number="10" style="v" />The elders of the daughter of Zion</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Job 2:13; Is. 3:26</char></note>Sit on the ground <char style="it">and</char> keep silence;</para>
+	<para style="q2">They <note style="x" caller="-"><char style="xt" closed="false">Job 2:12; Ezek. 27:30</char></note>throw dust on their heads</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Is. 15:3; Jon. 3:6–8</char></note>gird themselves with sackcloth.</para>
+	<para style="q2">The virgins of Jerusalem</para>
+	<para style="q2">Bow their heads to the ground.</para>
+	<para style="q1"><verse number="11" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 6:7; Lam. 3:48</char></note>My eyes fail with tears,</para>
+	<para style="q2">My heart is troubled;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Job 16:13; Ps. 22:14</char></note>My bile is poured on the ground</para>
+	<para style="q2">Because of the destruction of the daughter of my people,</para>
+	<para style="q2">Because <note style="x" caller="-"><char style="xt" closed="false">Lam. 4:4</char></note>the children and the infants</para>
+	<para style="q2">Faint in the streets of the city.</para>
+	<para style="q1"><verse number="12" style="v" />They say to their mothers,</para>
+	<para style="q2">“Where <char style="it">is</char> grain and wine?”</para>
+	<para style="q2">As they swoon like the wounded</para>
+	<para style="q2">In the streets of the city,</para>
+	<para style="q2">As their life is poured out</para>
+	<para style="q2">In their mothers’ bosom.</para>
+	<para style="q1"><verse number="13" style="v" />How shall I <note style="x" caller="-"><char style="xt" closed="false">Lam. 1:12; Dan. 9:12</char></note>console you?</para>
+	<para style="q2">To what shall I liken you,</para>
+	<para style="q2">O daughter of Jerusalem?</para>
+	<para style="q2">What shall I compare with you, that I may comfort you,</para>
+	<para style="q2">O virgin daughter of Zion?</para>
+	<para style="q2">For your ruin <char style="it">is</char> spread wide as the sea;</para>
+	<para style="q2">Who can heal you?</para>
+	<para style="q1"><verse number="14" style="v" />Your <note style="x" caller="-"><char style="xt" closed="false">Jer. 2:8; 23:25–29; 29:8, 9; 37:19; Ezek. 13:2</char></note>prophets have seen for you</para>
+	<para style="q2">False and deceptive visions;</para>
+	<para style="q2">They have not <note style="x" caller="-"><char style="xt" closed="false">Is. 58:1; Ezek. 23:36; Mic. 3:8</char></note>uncovered your iniquity,</para>
+	<para style="q2">To bring back your captives,</para>
+	<para style="q2">But have envisioned for you false <note style="x" caller="-"><char style="xt" closed="false">Jer. 23:33–36; Ezek. 22:25, 28</char></note>prophecies and delusions.</para>
+	<para style="q1"><verse number="15" style="v" />All who pass by <note style="x" caller="-"><char style="xt" closed="false">1 Kin. 9:8; Job 27:23; Jer. 18:16; Ezek. 25:6; Nah. 3:19</char></note>clap <char style="it">their</char> hands at you;</para>
+	<para style="q2">They hiss <note style="x" caller="-"><char style="xt" closed="false">2 Kin. 19:21; Ps. 44:14</char></note>and shake their heads</para>
+	<para style="q2">At the daughter of Jerusalem:</para>
+	<para style="q2">“<char style="it">Is</char> this the city that is called</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">(Ps. 48:2; 50:2); Ezek. 16:14</char></note>‘The perfection of beauty,</para>
+	<para style="q2">The joy of the whole earth’?”</para>
+	<para style="q1"><verse number="16" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Job 16:9, 10; Ps. 22:13; Lam. 3:46</char></note>All your enemies have opened their mouth against you;</para>
+	<para style="q2">They hiss and gnash <char style="it">their</char> teeth.</para>
+	<para style="q2">They say, <note style="x" caller="-"><char style="xt" closed="false">Ps. 56:2; 124:3; Jer. 51:34</char></note>“We have swallowed <char style="it">her</char> up!</para>
+	<para style="q2">Surely this <char style="it">is</char> the <note style="x" caller="-"><char style="xt" closed="false">Lam. 1:21; (Obad. 12–15)</char></note>day we have waited for;</para>
+	<para style="q2">We have found <char style="it">it,</char> <note style="x" caller="-"><char style="xt" closed="false">Ps. 35:21</char></note>we have seen <char style="it">it!</char>”</para>
+	<para style="q1"><verse number="17" style="v" />The <char style="sc">Lord</char> has done what He <note style="x" caller="-"><char style="xt" closed="false">Lev. 26:16</char></note>purposed;</para>
+	<para style="q2">He has fulfilled His word</para>
+	<para style="q2">Which He commanded in days of old.</para>
+	<para style="q2">He has thrown down and has not pitied,</para>
+	<para style="q2">And He has caused an enemy to <note style="x" caller="-"><char style="xt" closed="false">Ps. 38:16</char></note>rejoice over you;</para>
+	<para style="q2">He has exalted the horn of your adversaries.</para>
+	<para style="q1"><verse number="18" style="v" />Their heart cried out to the Lord,</para>
+	<para style="q2">“O wall of the daughter of Zion,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Jer. 14:17; Lam. 1:16</char></note>Let tears run down like a river day and night;</para>
+	<para style="q2">Give yourself no relief;</para>
+	<para style="q2">Give your eyes no rest.</para>
+	<para style="q1"><verse number="19" style="v" />“Arise, <note style="x" caller="-"><char style="xt" closed="false">Ps. 119:147</char></note>cry out in the night,</para>
+	<para style="q2">At the beginning of the watches;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">1 Sam. 1:15; Ps. 42:4; 62:8</char></note>Pour out your heart like water before the face of the Lord.</para>
+	<para style="q2">Lift your hands toward Him</para>
+	<para style="q2">For the life of your young children,</para>
+	<para style="q2">Who faint from hunger <note style="x" caller="-"><char style="xt" closed="false">Is. 51:20</char></note>at the head of every street.”</para>
+	<para style="q1"><verse number="20" style="v" />“See, O <char style="sc">Lord</char>, and consider!</para>
+	<para style="q2">To whom have You done this?</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Lev. 26:29; Deut. 28:53; Jer. 19:9; Lam. 4:10; Ezek. 5:10</char></note>Should the women eat their offspring,</para>
+	<para style="q2">The children they have cuddled?</para>
+	<para style="q2">Should the priest and prophet be slain</para>
+	<para style="q2">In the sanctuary of the Lord?</para>
+	<para style="q1"><verse number="21" style="v" />“Young<note style="x" caller="-"><char style="xt" closed="false">2 Chr. 36:17; Jer. 6:11</char></note> and old lie</para>
+	<para style="q2">On the ground in the streets;</para>
+	<para style="q2">My virgins and my young men</para>
+	<para style="q2">Have fallen by the <note style="x" caller="-"><char style="xt" closed="false">Jer. 18:21</char></note>sword;</para>
+	<para style="q2">You have slain <char style="it">them</char> in the day of Your anger,</para>
+	<para style="q2">You have slaughtered <char style="it">and</char> not pitied.</para>
+	<para style="q1"><verse number="22" style="v" />“You have invited as to a feast day</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 31:13; Is. 24:17; Jer. 6:25</char></note>The terrors that surround me.</para>
+	<para style="q2">In the day of the <char style="sc">Lord</char>’s anger</para>
+	<para style="q2">There was no refugee or survivor.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Hos. 9:12</char></note>Those whom I have borne and brought up</para>
+	<para style="q2">My enemies have <note style="x" caller="-"><char style="xt" closed="false">Jer. 16:2–4; 44:7</char></note>destroyed.”</para>
+	<chapter number="3" style="c" />
+	<para style="s">The Prophet’s Anguish and Hope</para>
+	<para style="q1"><verse number="1" style="v" />I <char style="it">am</char> the man <char style="it">who</char> has seen affliction by the rod of His wrath.</para>
+	<para style="q2"><verse number="2" style="v" />He has led me and made <char style="it">me</char> walk</para>
+	<para style="q2"><char style="it">In</char> darkness and not <char style="it">in</char> light.</para>
+	<para style="q2"><verse number="3" style="v" />Surely He has turned His hand against me</para>
+	<para style="q2">Time and time again throughout the day.</para>
+	<para style="q1"><verse number="4" style="v" />He has aged <note style="x" caller="-"><char style="xt" closed="false">Job 16:8</char></note>my flesh and my skin,</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Ps. 51:8; Is. 38:13</char></note>broken my bones.</para>
+	<para style="q2"><verse number="5" style="v" />He has besieged me</para>
+	<para style="q2">And surrounded <char style="it">me</char> with bitterness and woe.</para>
+	<para style="q2"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">(Ps. 88:5, 6; 143:3)</char></note>He has set me in dark places</para>
+	<para style="q2">Like the dead of long ago.</para>
+	<para style="q1"><verse number="7" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Job 3:23; 19:8; Hos. 2:6</char></note>He has hedged me in so that I cannot get out;</para>
+	<para style="q2">He has made my chain heavy.</para>
+	<para style="q2"><verse number="8" style="v" />Even <note style="x" caller="-"><char style="xt" closed="false">Job 30:20; Ps. 22:2</char></note>when I cry and shout,</para>
+	<para style="q2">He shuts out my prayer.</para>
+	<para style="q2"><verse number="9" style="v" />He has blocked my ways with hewn stone;</para>
+	<para style="q2">He has made my paths crooked.</para>
+	<para style="q1"><verse number="10" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Is. 38:13</char></note>He <char style="it">has</char> <char style="it">been</char> to me a bear lying in wait,</para>
+	<para style="q2"><char style="it">Like</char> a lion in ambush.</para>
+	<para style="q2"><verse number="11" style="v" />He has turned aside my ways and <note style="x" caller="-"><char style="xt" closed="false">Job 16:12, 13; Jer. 15:3; Hos. 6:1</char></note>torn me in pieces;</para>
+	<para style="q2">He has made me desolate.</para>
+	<para style="q2"><verse number="12" style="v" />He has bent His bow</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Job 7:20; 16:12; Ps. 38:2</char></note>set me up as a target for the arrow.</para>
+	<para style="q1"><verse number="13" style="v" />He has caused <note style="x" caller="-"><char style="xt" closed="false">Job 6:4</char></note>the arrows of His quiver</para>
+	<para style="q2">To pierce my loins.</para>
+	<para style="q2"><verse number="14" style="v" />I have become the <note style="x" caller="-"><char style="xt" closed="false">Ps. 22:6, 7; 123:4; Jer. 20:7</char></note>ridicule of all my people—</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Job 30:9; Ps. 69:12; Lam. 3:63</char></note>Their taunting song all the day.</para>
+	<para style="q2"><verse number="15" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Jer. 9:15</char></note>He has filled me with bitterness,</para>
+	<para style="q2">He has made me drink wormwood.</para>
+	<para style="q1"><verse number="16" style="v" />He has also broken my teeth <note style="x" caller="-"><char style="xt" closed="false">(Prov. 20:17)</char></note>with gravel,</para>
+	<para style="q2">And covered me with ashes.</para>
+	<para style="q2"><verse number="17" style="v" />You have moved my soul far from peace;</para>
+	<para style="q2">I have forgotten prosperity.</para>
+	<para style="q2"><verse number="18" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 31:22</char></note>And I said, “My strength and my hope</para>
+	<para style="q2">Have perished from the <char style="sc">Lord</char>.”</para>
+	<para style="q1"><verse number="19" style="v" />Remember my affliction and roaming,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Jer. 9:15; Lam. 3:5, 15</char></note>The wormwood and the gall.</para>
+	<para style="q2"><verse number="20" style="v" />My soul still remembers</para>
+	<para style="q2">And sinks within me.</para>
+	<para style="q2"><verse number="21" style="v" />This I recall to my mind,</para>
+	<para style="q2">Therefore I have <note style="x" caller="-"><char style="xt" closed="false">Ps. 130:7</char></note>hope.</para>
+	<para style="q1"><verse number="22" style="v" /><note style="x" caller="-"><char style="xt" closed="false">(Mal. 3:6)</char></note><char style="it">Through</char> the <char style="sc">Lord</char>’s mercies we are not consumed,</para>
+	<para style="q2">Because His compassions <note style="x" caller="-"><char style="xt" closed="false">Ps. 78:38; (Jer. 3:12; 30:11)</char></note>fail not.</para>
+	<para style="q2"><verse number="23" style="v" /><char style="it">They</char> <char style="it">are</char> new <note style="x" caller="-"><char style="xt" closed="false">Is. 33:2; Zeph. 3:5</char></note>every morning;</para>
+	<para style="q2">Great <char style="it">is</char> Your faithfulness.</para>
+	<para style="q2"><verse number="24" style="v" />“The <char style="sc">Lord</char> <char style="it">is</char> my <note style="x" caller="-"><char style="xt" closed="false">Ps. 16:5; 73:26; 119:57; Jer. 10:16</char></note>portion,” says my soul,</para>
+	<para style="q2">“Therefore I <note style="x" caller="-"><char style="xt" closed="false">Jer. 17:17; Mic. 7:7</char></note>hope in Him!”</para>
+	<para style="q1"><verse number="25" style="v" />The <char style="sc">Lord</char> <char style="it">is</char> good to those who <note style="x" caller="-"><char style="xt" closed="false">Ps. 130:6; Is. 30:18</char></note>wait for Him,</para>
+	<para style="q2">To the soul <char style="it">who</char> seeks Him.</para>
+	<para style="q2"><verse number="26" style="v" /><char style="it">It</char> <char style="it">is</char> good that <char style="it">one</char> should <note style="x" caller="-"><char style="xt" closed="false">(Rom. 4:16–18)</char></note>hope <note style="x" caller="-"><char style="xt" closed="false">Ex. 14:13; Ps. 37:7; Is. 7:4</char></note>and wait quietly</para>
+	<para style="q2">For the salvation of the <char style="sc">Lord</char>.</para>
+	<para style="q2"><verse number="27" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 94:12</char></note><char style="it">It</char> <char style="it">is</char> good for a man to bear</para>
+	<para style="q2">The yoke in his youth.</para>
+	<para style="q1"><verse number="28" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Jer. 15:17</char></note>Let him sit alone and keep silent,</para>
+	<para style="q2">Because <char style="it">God</char> has laid <char style="it">it</char> on him;</para>
+	<para style="q2"><verse number="29" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Job 42:6</char></note>Let him put his mouth in the dust—</para>
+	<para style="q2">There may yet be hope.</para>
+	<para style="q2"><verse number="30" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Job 16:10; Is. 50:6; (Matt. 5:39; 26:67); Mark 14:65; Luke 22:63</char></note>Let him give <char style="it">his</char> cheek to the one who strikes him,</para>
+	<para style="q2"><char style="it">And</char> be full of reproach.</para>
+	<para style="q1"><verse number="31" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 77:7; 94:14; (Is. 54:7–10)</char></note>For the Lord will not cast off forever.</para>
+	<para style="q2"><verse number="32" style="v" />Though He causes grief,</para>
+	<para style="q2">Yet He will show compassion</para>
+	<para style="q2">According to the multitude of His mercies.</para>
+	<para style="q2"><verse number="33" style="v" />For <note style="x" caller="-"><char style="xt" closed="false">(Ps. 119:67, 71, 75; Is. 28:21; Ezek. 33:11; Heb. 12:10)</char></note>He does not afflict willingly,</para>
+	<para style="q2">Nor grieve the children of men.</para>
+	<para style="q1"><verse number="34" style="v" />To crush under one’s feet</para>
+	<para style="q2">All the prisoners of the earth,</para>
+	<para style="q2"><verse number="35" style="v" />To turn aside the justice <char style="it">due</char> a man</para>
+	<para style="q2">Before the face of the Most High,</para>
+	<para style="q2"><verse number="36" style="v" />Or subvert a man in his cause—</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">(Jer. 22:3; Hab. 1:13)</char></note>The Lord does not approve.</para>
+	<para style="q1"><verse number="37" style="v" />Who <char style="it">is</char> he <note style="x" caller="-"><char style="xt" closed="false">(Ps. 33:9–11)</char></note><char style="it">who</char> speaks and it comes to pass,</para>
+	<para style="q2"><char style="it">When</char> the Lord has not commanded <char style="it">it?</char></para>
+	<para style="q2"><verse number="38" style="v" /><char style="it">Is</char> <char style="it">it</char> not from the mouth of the Most High</para>
+	<para style="q2">That <note style="x" caller="-"><char style="xt" closed="false">Job 2:10; (Is. 45:7); Jer. 32:42; Amos 3:6; (James 3:10, 11)</char></note>woe and well-being proceed?</para>
+	<para style="q2"><verse number="39" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Prov. 19:3</char></note>Why should a living man complain,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Jer. 30:15; Mic. 7:9; (Heb. 12:5, 6)</char></note>A man for the punishment of his sins?</para>
+	<para style="q1"><verse number="40" style="v" />Let us search out and examine our ways,</para>
+	<para style="q2">And turn back to the <char style="sc">Lord</char>;</para>
+	<para style="q2"><verse number="41" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 86:4</char></note>Let us lift our hearts and hands</para>
+	<para style="q2">To God in heaven.</para>
+	<para style="q2"><verse number="42" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Neh. 9:26; Jer. 14:20; Dan. 9:5</char></note>We have transgressed and rebelled;</para>
+	<para style="q2">You have not pardoned.</para>
+	<para style="q1"><verse number="43" style="v" />You have covered <char style="it">Yourself</char> with anger</para>
+	<para style="q2">And pursued us;</para>
+	<para style="q2">You have slain <char style="it">and</char> not pitied.</para>
+	<para style="q2"><verse number="44" style="v" />You have covered Yourself with a cloud,</para>
+	<para style="q2">That prayer should not pass through.</para>
+	<para style="q2"><verse number="45" style="v" />You have made us an <note style="x" caller="-"><char style="xt" closed="false">1 Cor. 4:13</char></note>offscouring and refuse</para>
+	<para style="q2">In the midst of the peoples.</para>
+	<para style="q1"><verse number="46" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Job 30:9, 10; Ps. 22:6–8; Lam. 2:16</char></note>All our enemies</para>
+	<para style="q2">Have opened their mouths against us.</para>
+	<para style="q2"><verse number="47" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Is. 24:17, 18; Jer. 48:43, 44</char></note>Fear and a snare have come upon us,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Is. 51:19</char></note>Desolation and destruction.</para>
+	<para style="q2"><verse number="48" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Jer. 4:19; 14:17; Lam. 2:11</char></note>My eyes overflow with rivers of water</para>
+	<para style="q2">For the destruction of the daughter of my people.</para>
+	<para style="q1"><verse number="49" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 77:2; Jer. 14:17</char></note>My eyes flow and do not cease,</para>
+	<para style="q2">Without interruption,</para>
+	<para style="q2"><verse number="50" style="v" />Till the <char style="sc">Lord</char> from heaven</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 80:14; Is. 63:15; Lam. 5:1</char></note>Looks down and sees.</para>
+	<para style="q2"><verse number="51" style="v" />My eyes bring suffering to my soul</para>
+	<para style="q2">Because of all the daughters of my city.</para>
+	<para style="q1"><verse number="52" style="v" />My enemies <note style="x" caller="-"><char style="xt" closed="false">Ps. 35:7, 19</char></note>without cause</para>
+	<para style="q2">Hunted me down like a bird.</para>
+	<para style="q2"><verse number="53" style="v" />They silenced my life <note style="x" caller="-"><char style="xt" closed="false">Jer. 37:16</char></note>in the pit</para>
+	<para style="q2">And <note style="x" caller="-"><char style="xt" closed="false">Dan. 6:17</char></note>threw stones at me.</para>
+	<para style="q2"><verse number="54" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 69:2; Jon. 2:3–5</char></note>The waters flowed over my head;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Is. 38:10</char></note>I said, “I am cut off!”</para>
+	<para style="q1"><verse number="55" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 130:1; Jon. 2:2</char></note>I called on Your name, O <char style="sc">Lord</char>,</para>
+	<para style="q2">From the lowest <note style="x" caller="-"><char style="xt" closed="false">Jer. 38:6–13</char></note>pit.</para>
+	<para style="q2"><verse number="56" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 3:4</char></note>You have heard my voice:</para>
+	<para style="q2">“Do not hide Your ear</para>
+	<para style="q2">From my sighing, from my cry for help.”</para>
+	<para style="q2"><verse number="57" style="v" />You <note style="x" caller="-"><char style="xt" closed="false">James 4:8</char></note>drew near on the day I called on You,</para>
+	<para style="q2">And said, <note style="x" caller="-"><char style="xt" closed="false">Is. 41:10, 14; Dan. 10:12</char></note>“Do not fear!”</para>
+	<para style="q1"><verse number="58" style="v" />O Lord, You have <note style="x" caller="-"><char style="xt" closed="false">Ps. 35:1; Jer. 51:36</char></note>pleaded the case for my soul;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 71:23</char></note>You have redeemed my life.</para>
+	<para style="q2"><verse number="59" style="v" />O <char style="sc">Lord</char>, You have seen <char style="it">how</char> I am wronged;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 9:4</char></note>Judge my case.</para>
+	<para style="q2"><verse number="60" style="v" />You have seen all their vengeance,</para>
+	<para style="q2">All their <note style="x" caller="-"><char style="xt" closed="false">Jer. 11:19</char></note>schemes against me.</para>
+	<para style="q1"><verse number="61" style="v" />You have heard their reproach, O <char style="sc">Lord</char>,</para>
+	<para style="q2">All their schemes against me,</para>
+	<para style="q2"><verse number="62" style="v" />The lips of my enemies</para>
+	<para style="q2">And their whispering against me all the day.</para>
+	<para style="q2"><verse number="63" style="v" />Look at their <note style="x" caller="-"><char style="xt" closed="false">Ps. 139:2</char></note>sitting down and their rising up;</para>
+	<para style="q2">I <char style="it">am</char> their taunting song.</para>
+	<para style="q1"><verse number="64" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 28:4; Jer. 11:20; 2 Tim. 4:14</char></note>Repay them, O <char style="sc">Lord</char>,</para>
+	<para style="q2">According to the work of their hands.</para>
+	<para style="q2"><verse number="65" style="v" />Give them a veiled heart;</para>
+	<para style="q2">Your curse <char style="it">be</char> upon them!</para>
+	<para style="q2"><verse number="66" style="v" />In Your anger,</para>
+	<para style="q2">Pursue and destroy them</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Deut. 25:19; Jer. 10:11</char></note>From under the heavens of the <note style="x" caller="-"><char style="xt" closed="false">Ps. 8:3</char></note><char style="sc">Lord</char>.</para>
+	<chapter number="4" style="c" />
+	<para style="s">The Degradation of Zion</para>
+	<para style="q1"><verse number="1" style="v" />How the gold has become dim!</para>
+	<para style="q2"><char style="it">How</char> changed the fine gold!</para>
+	<para style="q2">The stones of the sanctuary are scattered</para>
+	<para style="q2">At the head of every street.</para>
+	<para style="q1"><verse number="2" style="v" />The precious sons of Zion,</para>
+	<para style="q2">Valuable as fine gold,</para>
+	<para style="q2">How they are regarded <note style="x" caller="-"><char style="xt" closed="false">Is. 30:14; Jer. 19:11; (2 Cor. 4:7)</char></note>as clay pots,</para>
+	<para style="q2">The work of the hands of the potter!</para>
+	<para style="q1"><verse number="3" style="v" />Even the jackals present their breasts</para>
+	<para style="q2">To nurse their young;</para>
+	<para style="q2"><char style="it">But</char> the daughter of my people <char style="it">is</char> cruel,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Job 39:14–17</char></note>Like ostriches in the wilderness.</para>
+	<para style="q1"><verse number="4" style="v" />The tongue of the infant clings</para>
+	<para style="q2">To the roof of its mouth for thirst;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 22:15</char></note>The young children ask for bread,</para>
+	<para style="q2"><char style="it">But</char> no one breaks <char style="it">it</char> for them.</para>
+	<para style="q1"><verse number="5" style="v" />Those who ate delicacies</para>
+	<para style="q2">Are desolate in the streets;</para>
+	<para style="q2">Those who were brought up in scarlet</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Job 24:8</char></note>Embrace ash heaps.</para>
+	<para style="q1"><verse number="6" style="v" />The punishment of the iniquity of the daughter of my people</para>
+	<para style="q2">Is greater than the punishment of the <note style="x" caller="-"><char style="xt" closed="false">Ezek. 16:48</char></note>sin of Sodom,</para>
+	<para style="q2">Which was <note style="x" caller="-"><char style="xt" closed="false">Gen. 19:25; Jer. 20:16</char></note>overthrown in a moment,</para>
+	<para style="q2">With no hand to help her!</para>
+	<para style="q1"><verse number="7" style="v" />Her Nazirites were brighter than snow</para>
+	<para style="q2">And whiter than milk;</para>
+	<para style="q2">They were more ruddy in body than rubies,</para>
+	<para style="q2"><char style="it">Like</char> sapphire in their appearance.</para>
+	<para style="q1"><verse number="8" style="v" /><char style="it">Now</char> their appearance is blacker than soot;</para>
+	<para style="q2">They go unrecognized in the streets;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Job 19:20; Ps. 102:5</char></note>Their skin clings to their bones,</para>
+	<para style="q2">It has become as dry as wood.</para>
+	<para style="q1"><verse number="9" style="v" /><char style="it">Those</char> slain by the sword are better off</para>
+	<para style="q2">Than <char style="it">those</char> who die of hunger;</para>
+	<para style="q2">For these <note style="x" caller="-"><char style="xt" closed="false">Lev. 26:39; Ezek. 24:23</char></note>pine away,</para>
+	<para style="q2">Stricken <char style="it">for</char> <char style="it">lack</char> of the fruits of the <note style="x" caller="-"><char style="xt" closed="false">Jer. 16:4</char></note>field.</para>
+	<para style="q1"><verse number="10" style="v" />The hands of the <note style="x" caller="-"><char style="xt" closed="false">Lev. 26:29; Deut. 28:57; 2 Kin. 6:29; Jer. 19:9; Lam. 2:20; Ezek. 5:10</char></note>compassionate women</para>
+	<para style="q2">Have cooked their <note style="x" caller="-"><char style="xt" closed="false">Is. 49:15</char></note>own children;</para>
+	<para style="q2">They became <note style="x" caller="-"><char style="xt" closed="false">Deut. 28:57</char></note>food for them</para>
+	<para style="q2">In the destruction of the daughter of my people.</para>
+	<para style="q1"><verse number="11" style="v" />The <char style="sc">Lord</char> has fulfilled His fury,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Jer. 7:20; Lam. 2:17; Ezek. 22:31</char></note>He has poured out His fierce anger.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Deut. 32:22; Jer. 21:14</char></note>He kindled a fire in Zion,</para>
+	<para style="q2">And it has devoured its foundations.</para>
+	<para style="q1"><verse number="12" style="v" />The kings of the earth,</para>
+	<para style="q2">And all inhabitants of the world,</para>
+	<para style="q2">Would not have believed</para>
+	<para style="q2">That the adversary and the enemy</para>
+	<para style="q2">Could <note style="x" caller="-"><char style="xt" closed="false">Jer. 21:13</char></note>enter the gates of Jerusalem—</para>
+	<para style="q1"><verse number="13" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Jer. 5:31; Ezek. 22:26, 28; Zeph. 3:4</char></note>Because of the sins of her prophets</para>
+	<para style="q2"><char style="it">And</char> the iniquities of her priests,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Jer. 2:30; 26:8, 9; Matt. 23:31</char></note>Who shed in her midst</para>
+	<para style="q2">The blood of the just.</para>
+	<para style="q1"><verse number="14" style="v" />They wandered blind in the streets;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Jer. 2:34</char></note>They have defiled themselves with blood,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Num. 19:16</char></note>So that no one would touch their garments.</para>
+	<para style="q1"><verse number="15" style="v" />They cried out to them,</para>
+	<para style="q2">“Go away, <note style="x" caller="-"><char style="xt" closed="false">Lev. 13:45, 46</char></note>unclean!</para>
+	<para style="q2">Go away, go away,</para>
+	<para style="q2">Do not touch us!”</para>
+	<para style="q2">When they fled and wandered,</para>
+	<para style="q2"><char style="it">Those</char> among the nations said,</para>
+	<para style="q2">“They shall no longer dwell <char style="it">here.</char>”</para>
+	<para style="q1"><verse number="16" style="v" />The face of the <char style="sc">Lord</char> scattered them;</para>
+	<para style="q2">He no longer regards them.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Lam. 5:12</char></note><char style="it">The</char> <char style="it">people</char> do not respect the priests</para>
+	<para style="q2">Nor show favor to the elders.</para>
+	<para style="q1"><verse number="17" style="v" />Still <note style="x" caller="-"><char style="xt" closed="false">2 Kin. 24:7</char></note>our eyes failed us,</para>
+	<para style="q2"><char style="it">Watching</char> vainly for our help;</para>
+	<para style="q2">In our watching we watched</para>
+	<para style="q2">For a nation <char style="it">that</char> could not save <char style="it">us.</char></para>
+	<para style="q1"><verse number="18" style="v" /><note style="x" caller="-"><char style="xt" closed="false">2 Kin. 25:4</char></note>They tracked our steps</para>
+	<para style="q2">So that we could not walk in our streets.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ezek. 7:2, 3, 6; Amos 8:2</char></note>Our end was near;</para>
+	<para style="q2">Our days were over,</para>
+	<para style="q2">For our end had come.</para>
+	<para style="q1"><verse number="19" style="v" />Our pursuers were <note style="x" caller="-"><char style="xt" closed="false">Deut. 28:49</char></note>swifter</para>
+	<para style="q2">Than the eagles of the heavens.</para>
+	<para style="q2">They pursued us on the mountains</para>
+	<para style="q2">And lay in wait for us in the wilderness.</para>
+	<para style="q1"><verse number="20" style="v" />The <note style="x" caller="-"><char style="xt" closed="false">Gen. 2:7</char></note>breath of our nostrils, the anointed of the <char style="sc">Lord</char>,</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Jer. 52:9; Ezek. 12:13</char></note>Was caught in their pits,</para>
+	<para style="q2">Of whom we said, “Under his shadow</para>
+	<para style="q2">We shall live among the nations.”</para>
+	<para style="q1"><verse number="21" style="v" />Rejoice and be glad, O daughter of <note style="x" caller="-"><char style="xt" closed="false">Ps. 83:3–6</char></note>Edom,</para>
+	<para style="q2"><char style="it">You</char> who dwell in the land of Uz!</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Jer. 25:15; Obad. 10</char></note>The cup shall also pass over to you</para>
+	<para style="q2">And you shall become drunk and make yourself naked.</para>
+	<para style="q1"><verse number="22" style="v" /><note style="x" caller="-"><char style="xt" closed="false">(Is. 40:2; Jer. 33:7, 8)</char></note><char style="it">The</char> <char style="it">punishment</char> <char style="it">of</char> your iniquity is accomplished,</para>
+	<para style="q2">O daughter of Zion;</para>
+	<para style="q2">He will no longer send you into captivity.</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 137:7</char></note>He will punish your iniquity,</para>
+	<para style="q2">O daughter of Edom;</para>
+	<para style="q2">He will uncover your sins!</para>
+	<chapter number="5" style="c" />
+	<para style="s">A Prayer for Restoration</para>
+	<para style="q1"><verse number="1" style="v" />Remember, <note style="x" caller="-"><char style="xt" closed="false">Ps. 89:50</char></note>O <char style="sc">Lord</char>, what has come upon us;</para>
+	<para style="q2">Look, and behold <note style="x" caller="-"><char style="xt" closed="false">Ps. 79:4; Lam. 2:15</char></note>our reproach!</para>
+	<para style="q2"><verse number="2" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 79:1</char></note>Our inheritance has been turned over to aliens,</para>
+	<para style="q2">And our houses to foreigners.</para>
+	<para style="q2"><verse number="3" style="v" />We have become orphans and waifs,</para>
+	<para style="q2">Our mothers <char style="it">are</char> like <note style="x" caller="-"><char style="xt" closed="false">Ex. 22:24; Jer. 15:8; 18:21</char></note>widows.</para>
+	<para style="q1"><verse number="4" style="v" />We pay for the water we drink,</para>
+	<para style="q2">And our wood comes at a price.</para>
+	<para style="q2"><verse number="5" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Deut. 28:48; Jer. 28:14</char></note><char style="it">They</char> pursue at our heels;</para>
+	<para style="q2">We labor <char style="it">and</char> have no rest.</para>
+	<para style="q2"><verse number="6" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Gen. 24:2</char></note>We have given our hand <note style="x" caller="-"><char style="xt" closed="false">Hos. 9:3; 12:1</char></note><char style="it">to</char> the Egyptians</para>
+	<para style="q2"><char style="it">And</char> the <note style="x" caller="-"><char style="xt" closed="false">Jer. 2:18; Hos. 5:13</char></note>Assyrians, to be satisfied with bread.</para>
+	<para style="q1"><verse number="7" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Jer. 31:29</char></note>Our fathers sinned <char style="it">and</char> <char style="it">are</char> no more,</para>
+	<para style="q2">But we bear their iniquities.</para>
+	<para style="q2"><verse number="8" style="v" />Servants rule over us;</para>
+	<para style="q2"><char style="it">There</char> <char style="it">is</char> none to deliver <char style="it">us</char> from their hand.</para>
+	<para style="q2"><verse number="9" style="v" />We get our bread <char style="it">at</char> <char style="it">the</char> <char style="it">risk</char> of our lives,</para>
+	<para style="q2">Because of the sword in the wilderness.</para>
+	<para style="q1"><verse number="10" style="v" />Our skin is hot as an oven,</para>
+	<para style="q2">Because of the fever of famine.</para>
+	<para style="q2"><verse number="11" style="v" />They <note style="x" caller="-"><char style="xt" closed="false">Is. 13:16; Zech. 14:2</char></note>ravished the women in Zion,</para>
+	<para style="q2">The maidens in the cities of Judah.</para>
+	<para style="q2"><verse number="12" style="v" />Princes were hung up by their hands,</para>
+	<para style="q2">And elders were not respected.</para>
+	<para style="q2"><verse number="13" style="v" />Young men <note style="x" caller="-"><char style="xt" closed="false">Judg. 16:21</char></note>ground at the millstones;</para>
+	<para style="q2">Boys staggered under <char style="it">loads</char> <char style="it">of</char> wood.</para>
+	<para style="q2"><verse number="14" style="v" />The elders have ceased <char style="it">gathering</char> <char style="it">at</char> the gate,</para>
+	<para style="q2">And the young men from their <note style="x" caller="-"><char style="xt" closed="false">Is. 24:8; Jer. 7:34</char></note>music.</para>
+	<para style="q1"><verse number="15" style="v" />The joy of our heart has ceased;</para>
+	<para style="q2">Our dance has turned into <note style="x" caller="-"><char style="xt" closed="false">Jer. 25:10; Amos 8:10</char></note>mourning.</para>
+	<para style="q2"><verse number="16" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Job 19:9; Ps. 89:39; Jer. 13:18</char></note>The crown has fallen <char style="it">from</char> our head.</para>
+	<para style="q2">Woe to us, for we have sinned!</para>
+	<para style="q2"><verse number="17" style="v" />Because of this our heart is faint;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 6:7</char></note>Because of these <char style="it">things</char> our eyes grow dim;</para>
+	<para style="q2"><verse number="18" style="v" />Because of Mount Zion which is <note style="x" caller="-"><char style="xt" closed="false">Is. 27:10</char></note>desolate,</para>
+	<para style="q2">With foxes walking about on it.</para>
+	<para style="q1"><verse number="19" style="v" />You, O <char style="sc">Lord</char>, <note style="x" caller="-"><char style="xt" closed="false">Ps. 9:7; Hab. 1:12</char></note>remain forever;</para>
+	<para style="q2"><note style="x" caller="-"><char style="xt" closed="false">Ps. 45:6</char></note>Your throne from generation to generation.</para>
+	<para style="q2"><verse number="20" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 13:1; 44:24</char></note>Why do You forget us forever,</para>
+	<para style="q2"><char style="it">And</char> forsake us for so long a time?</para>
+	<para style="q2"><verse number="21" style="v" /><note style="x" caller="-"><char style="xt" closed="false">Ps. 80:3, 7, 19; Jer. 31:18</char></note>Turn us back to You, O <char style="sc">Lord</char>, and we will be restored;</para>
+	<para style="q2">Renew our days as of old,</para>
+	<para style="q2"><verse number="22" style="v" />Unless You have utterly rejected us,</para>
+	<para style="q2"><char style="it">And</char> are very angry with us!</para>
+	
+</usx>

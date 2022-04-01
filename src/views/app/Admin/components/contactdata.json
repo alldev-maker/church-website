@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "fullName": "Jannet",
+        "email": "email@email.com",
+        "church": "Life Church"
+    },
+    {
+        "id": "2",
+        "fullName": "Tom",
+        "email": "email@email.com",
+        "church": "Life Church"
+    },
+    {
+        "id": "3",
+        "fullName": "Candice",
+        "email": "email@email.com",
+        "church": "Life Church"
+    }
+]
